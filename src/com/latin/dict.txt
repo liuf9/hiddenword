@@ -3,7 +3,6 @@ a
 a
 aaron
 ab
-
 ababus
 abactor
 abactus
@@ -188,7 +187,6 @@ abrumpo
 abrupte
 abruptio
 abruptus
-
 abscedo
 abscessio
 abscessus
@@ -717,7 +715,6 @@ adbello
 adbibo
 adbito
 adblatero
-
 addax
 addecet
 addecimo
@@ -765,8 +762,6 @@ adesdum
 adesurio
 adesus
 adexpeto
-
-
 adhabito
 adhaereo
 adhaeresco
@@ -861,7 +856,6 @@ adjutrix
 adjutus
 adjutus
 adjuvo
-
 admaturo
 admensus
 admeo
@@ -939,7 +933,6 @@ adnecto
 adnepos
 adneptis
 adnomen
-
 adobruo
 adolabilis
 adolatio
@@ -982,7 +975,6 @@ adorno
 adoro
 adortus
 adosculor
-
 adquiesco
 adquo
 adr
@@ -1003,13 +995,8 @@ adroro
 adrumetum
 adrumo
 adruo
-
 adse
-
-
-
 adsum
-
 aduatuca
 aduatuci
 adulabilis
@@ -1101,7 +1088,6 @@ advivo
 advocamentum
 advocatio
 advocator
-
 advocatus
 advoco
 advolatus
@@ -1360,7 +1346,6 @@ aerusco
 aes
 aesacus
 aesalon
-
 aeschines
 aeschrologia
 aeschylus
@@ -2407,7 +2392,6 @@ amystis
 amythaon
 an
 an
-
 anabaptismus
 anabasis
 anabathrum
@@ -2828,7 +2812,6 @@ anthracinus
 anthracites
 anthracitis
 anthrax
-
 anthriscus
 anthropographos
 anthropolatra
@@ -4555,7 +4538,6 @@ auricolor
 auricomans
 auricomus
 auricula
-
 aurifer
 aurifex
 aurifluus
@@ -5110,7 +5092,6 @@ belbus
 belena
 belenus
 belgae
-
 belial
 belias
 belides
@@ -5341,7 +5322,6 @@ bijugus
 bilanx
 bilbilis
 bilbo
-
 bilibralis
 bilibris
 bilinguis
@@ -6064,7 +6044,6 @@ caenosus
 caenulentus
 caenum
 caepa
-
 caeparius
 caeparius
 caepasius
@@ -6500,7 +6479,6 @@ canentas
 caneo
 canephoros
 canes
-
 cangi
 cania
 canicae
@@ -6598,7 +6576,6 @@ capax
 capedo
 capeduncula
 capella
-
 capellianus
 capellus
 capena
@@ -6914,7 +6891,6 @@ caruncula
 carus
 carus
 carventana
-
 caryae
 caryanda
 caryinos
@@ -7965,7 +7941,6 @@ cibdelus
 cibicida
 cibo
 ciboria
-
 cibus
 cibyra
 cicada
@@ -8460,7 +8435,6 @@ citrago
 citrarius
 citratus
 citratus
-
 citreus
 citrium
 citro
@@ -10376,8 +10350,6 @@ conjuratio
 conjuratus
 conjuro
 conjux
-
-
 connascor
 connecto
 connexio
@@ -10409,7 +10381,6 @@ conquisitio
 conquisitor
 conquisitus
 conquistor
-
 consabrum
 consacerdos
 consacro
@@ -13957,7 +13928,6 @@ digressivus
 digressus
 digressus
 digrunnio
-
 diiambus
 dijovis
 dijudicatio
@@ -17359,7 +17329,6 @@ exter
 exterebro
 extergeo
 exterior
-
 extermentarium
 exterminabilis
 exterminatio
@@ -17836,7 +17805,6 @@ faustina
 faustitas
 faustulus
 faustus
-
 fautor
 fautrix
 faux
@@ -21569,7 +21537,6 @@ illitus
 illitus
 illix
 illo
-
 illocabilis
 illocalis
 illorsum
@@ -23719,7 +23686,6 @@ inquisitio
 inquisitor
 inquisitus
 inquisitus
-
 inrado
 inrectus
 insaepio
@@ -24307,7 +24273,6 @@ interior
 interitio
 interitus
 interitus
-
 interjaceo
 interjacio
 interjectio
@@ -28732,7 +28697,6 @@ menstruus
 mensualis
 mensula
 mensularius
-
 mensurabilis
 mensuralis
 mensuratio
@@ -28740,7 +28704,6 @@ mensurator
 mensurnus
 mensuro
 mensus
-
 menta
 mentagra
 mentalis
@@ -29014,7 +28977,6 @@ meus
 mevania
 mevia
 mezentius
-
 mia
 mica
 micans
@@ -30140,7 +30102,6 @@ musicarius
 musicatus
 musice
 musice
-
 musigena
 musimo
 musinor
@@ -33833,7 +33794,6 @@ parasita
 parasitaster
 parasitatio
 parasiticus
-
 parasitus
 parastas
 parastata
@@ -34067,7 +34027,6 @@ passibilis
 passibilitas
 passibiliter
 passienus
-
 passio
 passionalis
 passive
@@ -34102,7 +34061,6 @@ pastoralis
 pastoricius
 pastorius
 pastura
-
 pastus
 patagiarius
 patagiatus
@@ -34122,7 +34080,6 @@ patelana
 patella
 patella
 patellarius
-
 patens
 patenter
 pateo
@@ -40175,7 +40132,6 @@ quinarius
 quincenti
 quinctianus
 quincuncialis
-
 quincupedal
 quincuplex
 quindecies
@@ -41122,7 +41078,6 @@ remunerator
 remuneratrix
 remunero
 remuneror
-
 remurinus
 remurmuratio
 remurmuro
@@ -43321,7 +43276,6 @@ securis
 securitas
 securus
 secus
-
 secutio
 secutor
 secutorius
@@ -44430,7 +44384,6 @@ singulariter
 singularius
 singulatim
 singuli
-
 singultio
 singulto
 singultus
@@ -44510,7 +44463,6 @@ sirpicus
 sirpo
 sirpus
 sirus
-
 sisapo
 sisara
 siscia
@@ -49545,7 +49497,6 @@ turpiter
 turpitudo
 turpo
 turranius
-
 turriger
 turris
 turritus

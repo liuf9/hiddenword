@@ -23,8 +23,8 @@ public class LoadDictionary {
                     s = truncate(s.substring(0, Math.min(s.length(), WORD_LENGTH)));
                     if (!s.endsWith(".")) {
                         writer.write(s, 0, s.length());
+                        writer.newLine();
                     }
-                    writer.newLine();
                 }
                 s = reader.readLine();
             }

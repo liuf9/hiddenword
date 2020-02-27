@@ -17,7 +17,7 @@ public class HiddenWord {
             reader = new BufferedReader(new FileReader(
                     "src/com/latin/dict.txt"));
             writer = new BufferedWriter(new FileWriter(
-                    "src/com/latin/output.txt"));
+                    "src/com/latin/Aeneid/book1_output.txt"));
             map = new HashMap<>();
 
             System.out.println("Reading Latin dictionary, Lewis and Short:");
@@ -36,7 +36,7 @@ public class HiddenWord {
 
             // Import the vertical word sequence.
             BufferedReader reader2 = new BufferedReader(new FileReader(
-                    "src/com/latin/aeneid.txt"));
+                    "src/com/latin/Aeneid/1.txt"));
             String sequence = reader2.readLine();
             reader2.close();
 
@@ -72,8 +72,9 @@ public class HiddenWord {
         if (endIndex < seq.length()) {
             boolean isInDict = subdict.contains(seq.substring(index, endIndex));
             if (isInDict) {
+                // data structure starts from index 0, but line starts from index 1.
                 String output = String.format("Find word %s from line %d to line %d.\n",
-                        seq.substring(index, endIndex), index, endIndex - 1);
+                        seq.substring(index, endIndex), index + 1, endIndex);
                 writer.write(output, 0, output.length());
             }
         }

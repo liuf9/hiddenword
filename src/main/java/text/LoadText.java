@@ -10,9 +10,9 @@ public class LoadText {
         BufferedWriter writer;
         try {
             reader = new BufferedReader(new FileReader(
-                    "src/com/latin/Aeneidos.txt"));
+                    "src/com/latin/Aeneid/book12.txt"));
             writer = new BufferedWriter(new FileWriter(
-                    "src/com/latin/aeneid.txt"));
+                    "src/com/latin/Aeneid/12.txt"));
 
             System.out.println("Reading Aeneidos:");
 
@@ -44,8 +44,8 @@ public class LoadText {
         int count = 1;
         for (int i = start; i < s.length(); i++) {
             char c = s.charAt(i);
-            if (c != ',' && c != ' ' && c != '.' && c != '?'
-                && c != '!' && c != '-' && c != '\'') {
+            if (c != ',' && c != ' ' && c != '.' && c != '?' && c != '!'
+                    && c != '-' && c != '\'' && c != '[' && c != ']') {
                 if (count == index) {
                     return "" + c;
                 } else {
