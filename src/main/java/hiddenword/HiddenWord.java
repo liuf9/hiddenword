@@ -7,6 +7,8 @@ import java.util.Map;
 import java.util.List;
 
 public class HiddenWord {
+    private static final int BOOK_NUM = 12;
+
     public static void main(String[] args) {
         BufferedReader reader;
         BufferedWriter writer;
@@ -17,10 +19,8 @@ public class HiddenWord {
             reader = new BufferedReader(new FileReader(
                     "src/com/latin/dict.txt"));
             writer = new BufferedWriter(new FileWriter(
-                    "src/com/latin/Aeneid/book1_output.txt"));
+                    "src/com/latin/Metamorphoses/book1_output.txt"));
             map = new HashMap<>();
-
-            System.out.println("Reading Latin dictionary, Lewis and Short:");
 
             String s = reader.readLine();
             while (s != null) {
@@ -36,7 +36,7 @@ public class HiddenWord {
 
             // Import the vertical word sequence.
             BufferedReader reader2 = new BufferedReader(new FileReader(
-                    "src/com/latin/Aeneid/1.txt"));
+                    "src/com/latin/Metamorphoses/1.txt"));
             String sequence = reader2.readLine();
             reader2.close();
 

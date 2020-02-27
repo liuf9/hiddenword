@@ -3,7 +3,7 @@ package dictionary;
 import java.io.*;
 
 public class LoadDictionary {
-    private static final int WORD_LENGTH = 20;
+    private static final int WORD_LENGTH = 30;
 
     public static void main(String[] args) {
         BufferedReader reader;
@@ -18,10 +18,16 @@ public class LoadDictionary {
             System.out.println("Reading Latin dictionary, Lewis and Short:");
 
             String s = reader.readLine();
+            // Get rid of the whitespaces before words in each line.
+            int start = 0;
+            while (s.charAt(start) == ' ') {
+                start++;
+            }
+            s = s.substring(start);
             while (s != null) {
                 if (s.length() > 1) {
                     s = truncate(s.substring(0, Math.min(s.length(), WORD_LENGTH)));
-                    if (!s.endsWith(".")) {
+                    if (!s.endsWith(".") && s.length() > 1) {
                         writer.write(s, 0, s.length());
                         writer.newLine();
                     }
@@ -64,18 +70,15 @@ public class LoadDictionary {
 
     // Grasp the first word of each dictionary entry.
     private static String truncate(String s) {
-        // Get rid of the whitespaces before words in each line.
-        int start = 0;
-        while (s.charAt(start) == ' ') {
-            start++;
-        }
         String s1 = "";
 
         // Take the first word of each line as the standard form
         // from the dictionary.
-        for (int i = start; i < s.length(); i++) {
+        int end = 0;
+        for (int i = 0; i < s.length(); i++) {
             char c = s.charAt(i);
             if (c == ',' || c == ' ') {
+                end = i;
                 break;
             }
             c = letterHelper(c);
@@ -83,7 +86,13 @@ public class LoadDictionary {
                 s1 += c;
             }
         }
-        return s1.toLowerCase();
+
+        // Check whether the word is a prefix or a suffix.
+        if (s.charAt(0) == '-' || s.charAt(end - 1) == '-') {
+            return "";
+        } else {
+            return s1.toLowerCase();
+        }
     }
 
     private static void printCharacters(char[] arr, int len) {

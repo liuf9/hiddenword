@@ -1,6 +1,3 @@
-a
-a
-a
 aaron
 ab
 ababus
@@ -940,7 +937,6 @@ adolefactus
 adolenda
 adoleo
 adoleo
-adolesc
 adolesco
 adominatio
 adoneus
@@ -977,7 +973,6 @@ adortus
 adosculor
 adquiesco
 adquo
-adr
 adrachne
 adrado
 adramytteos
@@ -995,7 +990,6 @@ adroro
 adrumetum
 adrumo
 adruo
-adse
 adsum
 aduatuca
 aduatuci
@@ -2074,7 +2068,6 @@ alypon
 alysson
 alytarcha
 alyzia
-am
 ama
 amabilis
 amabilitas
@@ -2122,7 +2115,6 @@ amatorius
 amatrix
 amaturio
 amazon
-amb
 ambactus
 ambadedo
 ambages
@@ -2131,11 +2123,9 @@ ambago
 ambarvalis
 ambaxio:
 ambecisus
-ambe
 ambedo
 ambestrix
 ambesus
-ambi
 ambidens
 ambienter
 ambifariam
@@ -2390,7 +2380,6 @@ amyntas
 amyntor
 amystis
 amythaon
-an
 an
 anabaptismus
 anabasis
@@ -3535,7 +3524,7 @@ argenteolus
 argenteus
 argenteus
 argentia
-argentiexterebronide
+argentiexterebronides
 argentifodina
 argentinus
 argentoratus
@@ -3865,8 +3854,6 @@ ascetriae
 ascia
 asciburgium
 ascio
-a
-a
 ascites
 ascitus
 ascitus
@@ -4743,7 +4730,6 @@ azoni
 azorus
 azotus
 azymus
-b
 baal
 babae
 babba
@@ -5904,7 +5890,6 @@ byssus
 bythos
 byzacium
 byzantium
-c
 caballa
 caballarius
 caballatio
@@ -7252,7 +7237,6 @@ cavum
 cavus
 caycus
 caystros
-ce
 cea
 cebenna
 cebren
@@ -8671,7 +8655,7 @@ clusor
 cluster
 clusura
 clusus
-clutomestoridysarchi
+clutomestoridysarchides
 clutus
 cluvia
 cluvius
@@ -9984,7 +9968,6 @@ condicio
 condicionabilis
 condicionalis
 condico
-condicticius
 condictio
 condigne
 condignus
@@ -10362,7 +10345,6 @@ connus
 conon
 conopeum
 conor
-conp
 conquadro
 conquaero
 conquaestor
@@ -10384,7 +10366,6 @@ conquistor
 consabrum
 consacerdos
 consacro
-consaep
 consaepio
 consaepto
 consaeptum
@@ -11917,7 +11898,6 @@ cunina
 cunire
 cunnilingus
 cunnus
-cunque
 cunulae
 cupa
 cupa
@@ -12227,7 +12207,6 @@ cytorus
 cyzicos
 cyzicos
 cyzicum
-d
 daae
 dabanegoris
 dabar
@@ -12413,7 +12392,6 @@ decastylos
 decaulesco
 decebalus
 decedo
-*
 decelea
 decello
 decem
@@ -14584,7 +14562,6 @@ divum
 divus
 do
 do
-do
 doceo
 dochlea
 dochmius
@@ -14917,7 +14894,7 @@ duodequadrageni
 duodequadragesimus
 duodequadraginta
 duodequinquageni
-duodequinquagesimu
+duodequinquagesimus
 duodequinquaginta
 duodesexagesimus
 duodesexaginta
@@ -15009,7 +14986,6 @@ dyspnoicus
 dysprophoron
 dysuria
 dysuriacus
-e
 ea
 eadem
 eale
@@ -17436,7 +17412,6 @@ exuviae
 exvaporo
 exveho
 exvibrisso
-f
 faba
 fabaceus
 fabacia
@@ -19164,7 +19139,6 @@ fututor
 fututrix
 fututus
 fuvi
-g
 gabali
 gabalium
 gabalus
@@ -20056,7 +20030,6 @@ gyro
 gyrton
 gyrus
 gytheum
-h
 ha!
 habena
 habentia
@@ -21233,11 +21206,9 @@ hysterologia
 hystricosus
 hystriculus
 hystrix
-i
 iacchus
 iadera
 iaera
-ialysus
 iambelegus
 iambeus
 iambicinus
@@ -22114,13 +22085,7 @@ inachia
 inachus
 in
 inactus
-inadc
-inadf
 inadibilis
-inadp
-inads
-inadsc
-inadt
 inadulabilis
 inadustus
 inaedificatio
@@ -22230,7 +22195,6 @@ inausus
 inauxiliatus
 inavarus
 inaversibilis
-inb
 incaeduus
 incaelatus
 incalanto
@@ -23654,7 +23618,6 @@ inoro
 inorus
 inotiosus
 inoüs
-inp
 inpraesentiarum
 inprimis
 inquaesitus
@@ -23717,7 +23680,6 @@ insaturabilis
 insaturatus
 insaturus
 insauciatus
-inscalp
 inscalptio
 inscendo
 inscensio
@@ -25130,7 +25092,6 @@ ixion
 ixor
 iynx
 izi
-j
 jabolenus
 jacea
 jaceo
@@ -25434,7 +25395,6 @@ juverna
 juvo
 juxta
 juxtim
-k
 kalendae
 kalendalis
 kalendarium
@@ -25442,7 +25402,6 @@ kalendarius
 kalo
 karthago
 koppa
-l
 labarum
 labasco
 labda
@@ -27404,7 +27363,6 @@ lytra
 lytrotes
 lytrum
 lytta
-m
 macae
 macae
 macaerinthe
@@ -28499,7 +28457,6 @@ melitensis
 melitesius
 melitinus
 melitinus
-†
 melitites
 meliton
 melittaena
@@ -29385,15 +29342,12 @@ modulatus
 modulor
 modulus
 modus
-†
-†
 moechile
 moechillus
 moechimenium
 moechisso
 moechocinaedus
 moechor
-†
 moene
 moenera
 moenia
@@ -29402,7 +29356,6 @@ moenio
 moenis
 moenitus
 moenus
-†
 moera
 moerens
 moereo
@@ -29417,7 +29370,6 @@ moesileum
 moeste
 moeta
 mogontiacum
-‡
 mola
 molae
 molaris
@@ -29438,7 +29390,6 @@ molile
 molimen
 molimentum
 molina
-‡
 molinus
 molio
 molior
@@ -29452,7 +29403,6 @@ molitus
 molitus
 molleo
 mollesco
-‡
 mollicellus
 mollicia
 mollicina
@@ -29475,9 +29425,7 @@ molluscus
 molo
 molo
 moloche
-†
 molochinarius
-†
 molon
 molon
 molorchus
@@ -29549,7 +29497,6 @@ monobolon
 monoceros
 monochordos
 monochromata
-†
 monochromatos
 monochromos
 monochronos
@@ -29971,7 +29918,6 @@ muneratio
 munerator
 munerigerulus
 munero
-‡
 munia
 munica
 municeps
@@ -30309,7 +30255,6 @@ myxa
 myxo
 myxos
 myxum
-n
 nabataea
 nabdalsa
 ††
@@ -30569,7 +30514,6 @@ naxos
 nazaraeus
 nazaraeus
 nazareth
-ne
 ne
 ne
 neaera
@@ -31427,7 +31371,7 @@ nummus
 numnam
 numqua
 numquam
-numquampostreddonide
+numquampostreddonides
 numquando
 numquid
 numquis
@@ -31546,8 +31490,6 @@ nysa
 nysion
 nyssos
 nysus
-o
-o
 oarion
 oasis
 oaxes
@@ -31577,7 +31519,6 @@ obba
 obbatus
 obblateratus
 obbrutesco
-obc
 obdensatio
 obditus
 obdo
@@ -31608,8 +31549,6 @@ obesitas
 obeso
 obesus
 obex
-obf
-obg
 obhaereo
 obhaeresco
 obherbescere
@@ -31758,7 +31697,6 @@ oborsus
 obortus
 obortus
 obosculor
-obp
 obquinisco
 obradio
 obraucatus
@@ -31790,7 +31728,6 @@ obsaepio
 obsalutare
 obsatullo
 obsaturo
-obscaen
 obscaevo
 obscene
 obscenitas
@@ -31931,7 +31868,6 @@ obsurdatus
 obsurdefacio
 obsurdesco
 obsutus
-obt
 obtaedesco
 obtectus
 obtectus
@@ -33263,7 +33199,6 @@ ozaenosus
 ozogardana
 ozomene
 ozymum
-p
 pa
 pabillus
 pabo
@@ -33275,7 +33210,6 @@ pabulatorius
 pabulor
 pabulosus
 pabulum
-pac
 pacalis
 pacate
 pacatio
@@ -34241,7 +34175,6 @@ pavus
 pax
 pax
 paxillus
-pe
 peccamen
 peccans
 peccanter
@@ -37791,7 +37724,6 @@ praenotio
 praenoto
 praenubilus
 praenum
-praenunci
 prae
 praenuntia
 praenuntiatio
@@ -39351,7 +39283,6 @@ psythia
 psythius
 psyttalia
 ptarmicus
-pte
 pteleum
 ptenethu
 pterelas
@@ -39815,7 +39746,6 @@ pyxidatus
 pyxidicula
 pyxinum
 pyxis
-q
 qua
 quaad
 quacumque
@@ -40117,10 +40047,7 @@ quies
 quiescentia
 quiescitus
 quiesco
-‡
 quiete
-‡
-‡
 quietudo
 quietus
 quilibet
@@ -40303,7 +40230,6 @@ quousque
 quovis
 quum
 quummaxime
-r
 rabide
 rabidus
 rabies
@@ -40982,7 +40908,6 @@ reliquo
 reliquor
 reliquus
 relisus
-rellig
 reloco
 reloquus
 reluceo
@@ -41631,12 +41556,8 @@ rhamnos
 rhamnus
 rhamses
 rhanis
-†
-†
-†
 rhea
 rhea
-†
 rheda
 rhedarius
 rhedones
@@ -41703,7 +41624,6 @@ rhombus
 rhomphaea
 rhonchisonus
 rhoncho
-†
 rhondes
 rhopalon
 rhosos
@@ -41790,7 +41710,6 @@ rivifinalis
 rivinus
 rivo
 rivora
-‡
 rivulus
 rivus
 rixa
@@ -42094,7 +42013,6 @@ rutula
 rutuli
 rutupiae
 rutus
-s
 saba
 sabadius
 sabaia
@@ -43185,7 +43103,7 @@ scyritae
 scyros
 scyrus
 scytala
-scytalosagittipellig
+scytalosagittipelliger
 scytanum
 scytha
 scythes
@@ -43418,7 +43336,6 @@ semestrium
 semesus
 semet
 semetra
-semi
 semiacerbus
 semiadapertus
 semiadopertulus
@@ -44116,7 +44033,6 @@ siccarius
 siccatio
 siccativus
 siccatorius
-(
 sicce
 siccenses
 siccesco
@@ -45789,7 +45705,6 @@ subbibo
 subblandior
 subbrevis
 subbullio
-subc
 subdealbo
 subdebilis
 subdebilitatus
@@ -45849,8 +45764,6 @@ subex
 subexcuso
 subexhibeo
 subexplicans
-subf
-subg
 subhaereo
 subhastarius
 subhastatio
@@ -45971,7 +45884,6 @@ sublustris
 subluteus
 sublutus
 subluvies
-subm
 subnascor
 subnato
 subnatus
@@ -46007,9 +45919,7 @@ subortus
 subostendo
 subostensus
 subota
-subp
 subquartus
-subr
 subsalsus
 subsannatio
 subsannator
@@ -46521,7 +46431,6 @@ sulphur
 sulpicilla
 sulpicius
 sultis
-sum
 sum
 sum
 sumen
@@ -47310,7 +47219,6 @@ systalticus
 systema
 systylos
 syzygia
-t
 tabae
 tabanus
 tabefacio
@@ -48167,7 +48075,7 @@ thesaurarius
 thesaurensis
 thesaurizator
 thesaurizo
-thesaurochrysonicoch
+thesaurochrysonicochrysides
 thesaurus
 theseus
 thesion
@@ -49599,7 +49507,6 @@ tyrrheni
 tyrrheus
 tyrtaeus
 tyrus
-u
 uber
 uber
 uberius
@@ -50035,7 +49942,6 @@ uxor
 uxorcula
 uxorius
 uzita
-v
 vacalus
 vacans
 vacanter
@@ -50263,7 +50169,6 @@ vatinius
 vatius
 vatrax
 vatrenus
-ve
 ve
 vecilius
 vecordia
@@ -51450,7 +51355,6 @@ vulturus
 vultus
 vulva
 vulvula
-x
 xanthicus
 xanthippe
 xanthippus
@@ -51496,8 +51400,6 @@ xysticus
 xystilis
 xystum
 xystus
-y
-z
 zabulon
 zabulus
 zacharias

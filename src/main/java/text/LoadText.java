@@ -4,15 +4,16 @@ import java.io.*;
 
 public class LoadText {
     private static final int LETTER_INDEX = 1;
+    private static final int BOOK_NUM = 12;
 
     public static void main(String[] args) {
         BufferedReader reader;
         BufferedWriter writer;
         try {
             reader = new BufferedReader(new FileReader(
-                    "src/com/latin/Aeneid/book12.txt"));
+                    "src/com/latin/Metamorphoses/book1.txt"));
             writer = new BufferedWriter(new FileWriter(
-                    "src/com/latin/Aeneid/12.txt"));
+                    "src/com/latin/Metamorphoses/1.txt"));
 
             System.out.println("Reading Aeneidos:");
 
