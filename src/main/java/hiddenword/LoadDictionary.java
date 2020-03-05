@@ -1,4 +1,4 @@
-package dictionary;
+package hiddenword;
 
 import java.io.*;
 
@@ -15,7 +15,7 @@ public class LoadDictionary {
             writer = new BufferedWriter(new FileWriter(
                     "src/com/latin/dict.txt"));
 
-            System.out.println("Reading Latin dictionary, Lewis and Short:");
+            System.out.println("Reading Latin dictionary, Lewis and Short...");
 
             String s = reader.readLine();
             // Get rid of the whitespaces before words in each line.
@@ -24,9 +24,14 @@ public class LoadDictionary {
                 start++;
             }
             s = s.substring(start);
+
+            // Take of the standard word form by extract the first word in
+            // each dictionary entry until EOF.
             while (s != null) {
                 if (s.length() > 1) {
                     s = truncate(s.substring(0, Math.min(s.length(), WORD_LENGTH)));
+                    // Test whether String s is not an abbreviation of a word and
+                    // the word length is long enough to have representations.
                     if (!s.endsWith(".") && s.length() > 1) {
                         writer.write(s, 0, s.length());
                         writer.newLine();
@@ -43,13 +48,14 @@ public class LoadDictionary {
             // }
             reader.close();
             writer.close();
+            System.out.println("Finish reading dictionary.");
 
         } catch (IOException e) {
             e.printStackTrace();
         }
     }
 
-    // change a vowel in macron or breve to its standard form.
+    // Change a vowel in macron or breve to its standard form.
     private static char letterHelper(char c) {
         if (c == 'ă' || c == 'ā' || c == 'Ā' || c == 'Ă') {
             return 'a';
@@ -70,31 +76,35 @@ public class LoadDictionary {
 
     // Grasp the first word of each dictionary entry.
     private static String truncate(String s) {
+        // Check whether the word is a prefix.
+        if (s.charAt(0) == '-') {
+            return "";
+        }
         String s1 = "";
 
         // Take the first word of each line as the standard form
         // from the dictionary.
-        int end = 0;
         for (int i = 0; i < s.length(); i++) {
             char c = s.charAt(i);
             if (c == ',' || c == ' ') {
-                end = i;
                 break;
             }
             c = letterHelper(c);
+            // Delete the connecting dash between prefix and word.
             if (c != '-') {
                 s1 += c;
             }
         }
 
-        // Check whether the word is a prefix or a suffix.
-        if (s.charAt(0) == '-' || s.charAt(end - 1) == '-') {
+        // Check whether the word is a suffix.
+        if (s1.endsWith("-")) {
             return "";
         } else {
-            return s1.toLowerCase();
+            return s1;
         }
     }
 
+    // Print the first word of each dictionary entry if needed.
     private static void printCharacters(char[] arr, int len) {
         for (int i = 0; i < len; i++) {
             System.out.print(arr[i]);
