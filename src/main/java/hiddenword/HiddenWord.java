@@ -7,6 +7,7 @@ import java.util.Map;
 import java.util.List;
 
 public class HiddenWord {
+    private static final int LEAST_LEN = 4;
 
     public static void main(String[] args) {
         // LoadDictionary.main(args);
@@ -30,10 +31,11 @@ public class HiddenWord {
             String s = reader.readLine();
             while (s != null) {
                 if (s.length() > 1) {
-                    if (!map.containsKey(s.substring(0, 2))) {
-                        map.put(s.substring(0, 2), new ArrayList<String>());
+                    String firstTwoLetters = s.substring(0, 2).toLowerCase();
+                    if (!map.containsKey(firstTwoLetters)) {
+                        map.put(firstTwoLetters, new ArrayList<String>());
                     }
-                    map.get(s.substring(0, 2)).add(s);
+                    map.get(firstTwoLetters).add(s);
                 }
                 s = reader.readLine();
             }
@@ -52,7 +54,7 @@ public class HiddenWord {
                 // Write the potential acrostic words into the output file.
                 writer = new BufferedWriter(new FileWriter(
                         address + "book" + i + "_output.txt"));
-                for (int j = 10; j > 2; j--) {
+                for (int j = 10; j >= LEAST_LEN; j--) {
                     wordProcession(map, sequence, j, writer);
                 }
 
@@ -79,7 +81,7 @@ public class HiddenWord {
                     if (isInDict != -1) {
                         // data structure starts from index 0, but line starts
                         // from index 1.
-                        String output = String.format("Find word %s in form %s " +
+                        String output = String.format("Find word \"%s\" in form \"%s\" " +
                                         "from line %d to line %d.\n", subdict.get(isInDict),
                                 seq.substring(i, endIndex), i + 1, endIndex);
                         writer.write(output, 0, output.length());

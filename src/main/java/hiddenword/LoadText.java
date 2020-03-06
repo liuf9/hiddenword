@@ -31,6 +31,7 @@ public class LoadText {
                     if (s.length() > 1) {
                         String letter = findLetter(s);
                         if (letter != null) {
+                            // Write the sequence to the file in all lower cases.
                             writer.write(letter.toLowerCase(), 0, 1);
                         }
                     }

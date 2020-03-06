@@ -77,7 +77,7 @@ public class LoadDictionary {
     // Grasp the first word of each dictionary entry.
     private static String truncate(String s) {
         // Check whether the word is a prefix.
-        if (s.charAt(0) == '-') {
+        if (s.charAt(0) == '-' || s.charAt(0) == '†') {
             return "";
         }
         String s1 = "";

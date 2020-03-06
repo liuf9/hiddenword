@@ -3892,7 +3892,6 @@ asellulus
 asellus
 asemus
 asia
-††
 asiagenes
 asiane
 asianus
@@ -4946,7 +4945,6 @@ barditus
 bardocucullus
 Bardulis
 bardus
-††
 Barea
 Barea
 Bargullum
@@ -4969,7 +4967,6 @@ barrinus
 barrio
 barritus
 barritus
-††
 Barrus
 barycephalus
 barypicron
@@ -12186,7 +12183,6 @@ Cyprius
 Cyprius
 Cyprus
 cyprus
-††
 Cypsela
 cypselus
 Cypselus
@@ -27863,10 +27859,7 @@ manipulus
 Manius
 Manlius
 manna
-††
 mannulus
-††
-††
 mano
 manon
 mansio
@@ -30278,7 +30271,6 @@ myxos
 myxum
 Nabataea
 Nabdalsa
-††
 Nabis
 nablia
 nablio
@@ -42858,7 +42850,6 @@ scelio
 scelotyrbe
 scelus
 scena
-††
 scenarius
 scenites
 scenofactorius
