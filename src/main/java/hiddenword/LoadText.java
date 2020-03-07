@@ -11,6 +11,7 @@ public class LoadText {
     private static String address;
     private static boolean hasV;
     private static boolean hasJ;
+    private static int checkStyle = -1;
 
     public static void main(String[] args) {
         formAddress();
@@ -27,12 +28,21 @@ public class LoadText {
                 System.out.println("Loading book " + i + "...");
 
                 String s = reader.readLine();
+                int lineIndex = 0;
                 while (s != null) {
                     if (s.length() > 1) {
                         String letter = findLetter(s);
                         if (letter != null) {
-                            // Write the sequence to the file in all lower cases.
-                            writer.write(letter.toLowerCase(), 0, 1);
+                            lineIndex++;
+                            // Write the first-word sequence to the file in
+                            // all lower cases.
+                            if (checkStyle == 1 && lineIndex % 2 == 1) {
+                                writer.write(letter.toLowerCase(), 0, 1);
+                            } else if (checkStyle == 0 && lineIndex % 2 == 0) {
+                                writer.write(letter.toLowerCase(), 0, 1);
+                            } else if (checkStyle == -1) {
+                                writer.write(letter.toLowerCase(), 0, 1);
+                            }
                         }
                     }
                     s = reader.readLine();
@@ -55,6 +65,13 @@ public class LoadText {
         return address;
     }
 
+    // return the check acrostic style; return 1 if we want to check the odd-number
+    // lines (hexameter verse); return 0 if we want to check the even-number lines
+    // (pentameter lines); return -1 if we normally check every line.
+    static int getCheckStyle() {
+        return checkStyle;
+    }
+
     private static void formAddress() throws NumberFormatException {
         Scanner console = new Scanner(System.in);
 
@@ -65,14 +82,33 @@ public class LoadText {
         System.out.print("How many books does it have " +
                 "(enter an integer): ");
         numOfBooks = Integer.parseInt(console.nextLine());
-        System.out.print("Does the text contains letter 'v' " +
-                "('yes' or 'no'): ");
-        hasV = (console.nextLine().equals("yes"));
-        System.out.print("Does the text contains letter 'j' " +
-                "('yes' or 'no'): ");
-        hasJ = (console.nextLine().equals("yes"));
         System.out.println("Please make sure the books are named in the same format. " +
                 "(\"book\" + number + \".txt\")");
+        try {
+            Thread.sleep(1000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+
+        System.out.print("Does the text contains letter 'v' " +
+                "('yes' or 'no'): ");
+        hasV = (console.nextLine().toLowerCase().startsWith("y"));
+        System.out.print("Does the text contains letter 'j' " +
+                "('yes' or 'no'): ");
+        hasJ = (console.nextLine().toLowerCase().startsWith("y"));
+        System.out.print("Is the text written in Elegiac Couplet " +
+                "('yes' or 'no'): ");
+        boolean isEpic = (console.nextLine().toLowerCase().startsWith("y"));
+        if (isEpic) {
+            System.out.print("Check hexameter verse or check pentameter verse " +
+                    "or normally check every line ('h' or 'p' or 'n'): ");
+            String check = console.nextLine().toLowerCase();
+            if (check.startsWith("h")) {
+                checkStyle = 1;
+            } else if (check.startsWith("p")) {
+                checkStyle = 0;
+            }
+        }
     }
 
     private static String findLetter(String s) {

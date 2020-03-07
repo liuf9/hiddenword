@@ -81,13 +81,28 @@ public class HiddenWord {
                     if (isInDict != -1) {
                         // data structure starts from index 0, but line starts
                         // from index 1.
+                        int startIndex = actualLineNumber(i + 1);
+                        int finalIndex = actualLineNumber(endIndex);
                         String output = String.format("Find word \"%s\" in form \"%s\" " +
                                         "from line %d to line %d.\n", subdict.get(isInDict),
-                                seq.substring(i, endIndex), i + 1, endIndex);
+                                seq.substring(i, endIndex), startIndex, finalIndex);
                         writer.write(output, 0, output.length());
                     }
                 }
             }
+        }
+    }
+
+    // Return the actual line number in the poem when we have different
+    // check acrostic style.
+    private static int actualLineNumber(int n) {
+        int checkStyle = LoadText.getCheckStyle();
+        if (checkStyle == 1) {
+            return 2 * n - 1;
+        } else if (checkStyle == 0) {
+            return 2 * n;
+        } else {
+            return n;
         }
     }
 
