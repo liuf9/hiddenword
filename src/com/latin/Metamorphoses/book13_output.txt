@@ -1,53 +1,53 @@
-Find word "Paphiacus" in form "paphiappp" from line 369 to line 377.
-Find word "aerinus" in form "aerinqc" from line 215 to line 221.
-Find word "Theseus" in form "thesesa" from line 283 to line 289.
-Find word "cnecus" in form "cnecutp" from line 312 to line 318.
-Find word "necuter" in form "necutpf" from line 313 to line 319.
-Find word "ennam" in form "ennamnp" from line 747 to line 753.
-Find word "impune" in form "impunah" from line 815 to line 821.
-Find word "cnecus" in form "cnecut" from line 312 to line 317.
-Find word "ennam" in form "ennamn" from line 747 to line 752.
-Find word "impune" in form "impuna" from line 815 to line 820.
-Find word "Ulia" in form "uliaa" from line 3 to line 7.
-Find word "Lara" in form "larai" from line 24 to line 28.
-Find word "nono" in form "nonoa" from line 39 to line 43.
-Find word "Scaea" in form "scaes" from line 68 to line 72.
-Find word "caesa" in form "caesc" from line 69 to line 73.
-Find word "domus" in form "domup" from line 194 to line 198.
-Find word "Maera" in form "maeri" from line 214 to line 218.
-Find word "nates" in form "natea" from line 231 to line 235.
-Find word "Teate" in form "teatf" from line 233 to line 237.
-Find word "nema" in form "nemas" from line 321 to line 325.
-Find word "Pelia" in form "pelie" from line 405 to line 409.
-Find word "aurea" in form "auree" from line 434 to line 438.
-Find word "Aesis" in form "aesit" from line 505 to line 509.
-Find word "esito" in form "esitn" from line 506 to line 510.
-Find word "Adad" in form "adada" from line 532 to line 536.
-Find word "tinus" in form "tinuq" from line 541 to line 545.
-Find word "cuci" in form "cucit" from line 552 to line 556.
-Find word "cito" in form "citop" from line 554 to line 558.
-Find word "felio" in form "felih" from line 628 to line 632.
-Find word "Uspe" in form "uspen" from line 708 to line 712.
-Find word "ipse" in form "ipsem" from line 722 to line 726.
-Find word "Aenea" in form "aeneq" from line 742 to line 746.
-Find word "Enna" in form "ennam" from line 747 to line 751.
-Find word "Nape" in form "napeh" from line 756 to line 760.
-Find word "casse" in form "casss" from line 782 to line 786.
-Find word "laser" in form "lasen" from line 802 to line 806.
-Find word "agens" in form "ageng" from line 902 to line 906.
-Find word "Alcis" in form "alcic" from line 910 to line 914.
-Find word "cicur" in form "cicus" from line 912 to line 916.
-Find word "cujas" in form "cuiar" from line 931 to line 935.
-Find word "Argei" in form "arged" from line 934 to line 938.
-Find word "canta" in form "cantd" from line 945 to line 949.
-Find word "Ulia" in form "ulia" from line 3 to line 6.
-Find word "Lara" in form "lara" from line 24 to line 27.
-Find word "nono" in form "nono" from line 39 to line 42.
-Find word "nema" in form "nema" from line 321 to line 324.
-Find word "Adad" in form "adad" from line 532 to line 535.
-Find word "cuci" in form "cuci" from line 552 to line 555.
-Find word "cito" in form "cito" from line 554 to line 557.
-Find word "Uspe" in form "uspe" from line 708 to line 711.
-Find word "ipse" in form "ipse" from line 722 to line 725.
-Find word "Enna" in form "enna" from line 747 to line 750.
-Find word "Nape" in form "nape" from line 756 to line 759.
+Find word "Paphiacus (63)" in form "paphiappp" from line 369 to line 377.
+Find word "aerinus (94)" in form "aerinqc" from line 215 to line 221.
+Find word "Theseus (1206)" in form "thesesa" from line 283 to line 289.
+Find word "cnecus (149)" in form "cnecutp" from line 312 to line 318.
+Find word "necuter (101)" in form "necutpf" from line 313 to line 319.
+Find word "ennam (40)" in form "ennamnp" from line 747 to line 753.
+Find word "impune (36)" in form "impunah" from line 815 to line 821.
+Find word "cnecus (149)" in form "cnecut" from line 312 to line 317.
+Find word "ennam (40)" in form "ennamn" from line 747 to line 752.
+Find word "impune (36)" in form "impuna" from line 815 to line 820.
+Find word "Ulia (99)" in form "uliaa" from line 3 to line 7.
+Find word "Lara (317)" in form "larai" from line 24 to line 28.
+Find word "nono (25)" in form "nonoa" from line 39 to line 43.
+Find word "Scaea (275)" in form "scaes" from line 68 to line 72.
+Find word "caesa (81)" in form "caesc" from line 69 to line 73.
+Find word "domus (9265)" in form "domup" from line 194 to line 198.
+Find word "Maera (171)" in form "maeri" from line 214 to line 218.
+Find word "nates (21)" in form "natea" from line 231 to line 235.
+Find word "Teate (170)" in form "teatf" from line 233 to line 237.
+Find word "nema (82)" in form "nemas" from line 321 to line 325.
+Find word "Pelia (29)" in form "pelie" from line 405 to line 409.
+Find word "aurea (160)" in form "auree" from line 434 to line 438.
+Find word "Aesis (58)" in form "aesit" from line 505 to line 509.
+Find word "esito (217)" in form "esitn" from line 506 to line 510.
+Find word "Adad (82)" in form "adada" from line 532 to line 536.
+Find word "tinus (118)" in form "tinuq" from line 541 to line 545.
+Find word "cuci (122)" in form "cucit" from line 552 to line 556.
+Find word "cito (31)" in form "citop" from line 554 to line 558.
+Find word "felio (81)" in form "felih" from line 628 to line 632.
+Find word "Uspe (123)" in form "uspen" from line 708 to line 712.
+Find word "ipse (15496)" in form "ipsem" from line 722 to line 726.
+Find word "Aenea (21)" in form "aeneq" from line 742 to line 746.
+Find word "Enna (37)" in form "ennam" from line 747 to line 751.
+Find word "Nape (87)" in form "napeh" from line 756 to line 760.
+Find word "casse (98)" in form "casss" from line 782 to line 786.
+Find word "laser (440)" in form "lasen" from line 802 to line 806.
+Find word "agens (27)" in form "ageng" from line 902 to line 906.
+Find word "Alcis (173)" in form "alcic" from line 910 to line 914.
+Find word "cicur (481)" in form "cicus" from line 912 to line 916.
+Find word "cujas (661)" in form "cuiar" from line 931 to line 935.
+Find word "Argei (935)" in form "arged" from line 934 to line 938.
+Find word "canta (20)" in form "cantd" from line 945 to line 949.
+Find word "Ulia (99)" in form "ulia" from line 3 to line 6.
+Find word "Lara (317)" in form "lara" from line 24 to line 27.
+Find word "nono (25)" in form "nono" from line 39 to line 42.
+Find word "nema (82)" in form "nema" from line 321 to line 324.
+Find word "Adad (82)" in form "adad" from line 532 to line 535.
+Find word "cuci (122)" in form "cuci" from line 552 to line 555.
+Find word "cito (31)" in form "cito" from line 554 to line 557.
+Find word "Uspe (123)" in form "uspe" from line 708 to line 711.
+Find word "ipse (15496)" in form "ipse" from line 722 to line 725.
+Find word "Enna (37)" in form "enna" from line 747 to line 750.
+Find word "Nape (87)" in form "nape" from line 756 to line 759.

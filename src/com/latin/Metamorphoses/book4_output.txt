@@ -1,46 +1,46 @@
-Find word "Calpe" in form "calpega" from line 662 to line 668.
-Find word "stiva" in form "stiuaui" from line 717 to line 723.
-Find word "Calpe" in form "calpeg" from line 662 to line 667.
-Find word "stiva" in form "stiuau" from line 717 to line 722.
-Find word "Aenea" in form "aenen" from line 13 to line 17.
-Find word "Aenus" in form "aenud" from line 47 to line 51.
-Find word "enudo" in form "enudu" from line 48 to line 52.
-Find word "nudus" in form "nuduh" from line 49 to line 53.
-Find word "cepa" in form "cepac" from line 93 to line 97.
-Find word "ineo" in form "ineos" from line 111 to line 115.
-Find word "eres" in form "eresu" from line 176 to line 180.
-Find word "resum" in form "resue" from line 177 to line 181.
-Find word "Suevi" in form "sueua" from line 179 to line 183.
-Find word "erepo" in form "erepi" from line 222 to line 226.
-Find word "ficus" in form "ficun" from line 295 to line 299.
-Find word "novi" in form "nouii" from line 348 to line 352.
-Find word "Savus" in form "sauuc" from line 363 to line 367.
-Find word "imus" in form "imuse" from line 438 to line 442.
-Find word "sisto" in form "sistm" from line 470 to line 474.
-Find word "asto" in form "aston" from line 486 to line 490.
-Find word "apis" in form "apish" from line 553 to line 557.
-Find word "panax" in form "panau" from line 560 to line 564.
-Find word "nauci" in form "naucn" from line 562 to line 566.
-Find word "Isaac" in form "isaan" from line 605 to line 609.
-Find word "quin" in form "quinf" from line 618 to line 622.
-Find word "hira" in form "hiram" from line 630 to line 634.
-Find word "ramex" in form "ramea" from line 632 to line 636.
-Find word "Calpe" in form "calpe" from line 662 to line 666.
-Find word "Alpes" in form "alpeg" from line 663 to line 667.
-Find word "Pegae" in form "pegai" from line 665 to line 669.
-Find word "Uspe" in form "uspea" from line 677 to line 681.
-Find word "cavum" in form "cauup" from line 710 to line 714.
-Find word "stiva" in form "stiua" from line 717 to line 721.
-Find word "pisa" in form "pisad" from line 778 to line 782.
-Find word "adeps" in form "adepa" from line 781 to line 785.
-Find word "cepa" in form "cepa" from line 93 to line 96.
-Find word "ineo" in form "ineo" from line 111 to line 114.
-Find word "eres" in form "eres" from line 176 to line 179.
-Find word "novi" in form "noui" from line 348 to line 351.
-Find word "imus" in form "imus" from line 438 to line 441.
-Find word "asto" in form "asto" from line 486 to line 489.
-Find word "apis" in form "apis" from line 553 to line 556.
-Find word "quin" in form "quin" from line 618 to line 621.
-Find word "hira" in form "hira" from line 630 to line 633.
-Find word "Uspe" in form "uspe" from line 677 to line 680.
-Find word "pisa" in form "pisa" from line 778 to line 781.
+Find word "Calpe (409)" in form "calpega" from line 662 to line 668.
+Find word "stiva (135)" in form "stiuaui" from line 717 to line 723.
+Find word "Calpe (409)" in form "calpeg" from line 662 to line 667.
+Find word "stiva (135)" in form "stiuau" from line 717 to line 722.
+Find word "Aenea (21)" in form "aenen" from line 13 to line 17.
+Find word "Aenus (305)" in form "aenud" from line 47 to line 51.
+Find word "enudo (162)" in form "enudu" from line 48 to line 52.
+Find word "nudus (3812)" in form "nuduh" from line 49 to line 53.
+Find word "cepa (15)" in form "cepac" from line 93 to line 97.
+Find word "ineo (4056)" in form "ineos" from line 111 to line 115.
+Find word "eres (15)" in form "eresu" from line 176 to line 180.
+Find word "resum (167)" in form "resue" from line 177 to line 181.
+Find word "Suevi (566)" in form "sueua" from line 179 to line 183.
+Find word "erepo (568)" in form "erepi" from line 222 to line 226.
+Find word "ficus (2161)" in form "ficun" from line 295 to line 299.
+Find word "novi (15)" in form "nouii" from line 348 to line 352.
+Find word "Savus (284)" in form "sauuc" from line 363 to line 367.
+Find word "imus (24)" in form "imuse" from line 438 to line 442.
+Find word "sisto (19087)" in form "sistm" from line 470 to line 474.
+Find word "asto (2498)" in form "aston" from line 486 to line 490.
+Find word "apis (1924)" in form "apish" from line 553 to line 557.
+Find word "panax (24)" in form "panau" from line 560 to line 564.
+Find word "nauci (17)" in form "naucn" from line 562 to line 566.
+Find word "Isaac (104)" in form "isaan" from line 605 to line 609.
+Find word "quin (5639)" in form "quinf" from line 618 to line 622.
+Find word "hira (136)" in form "hiram" from line 630 to line 634.
+Find word "ramex (299)" in form "ramea" from line 632 to line 636.
+Find word "Calpe (409)" in form "calpe" from line 662 to line 666.
+Find word "Alpes (2365)" in form "alpeg" from line 663 to line 667.
+Find word "Pegae (63)" in form "pegai" from line 665 to line 669.
+Find word "Uspe (123)" in form "uspea" from line 677 to line 681.
+Find word "cavum (25)" in form "cauup" from line 710 to line 714.
+Find word "stiva (135)" in form "stiua" from line 717 to line 721.
+Find word "pisa (19)" in form "pisad" from line 778 to line 782.
+Find word "adeps (1162)" in form "adepa" from line 781 to line 785.
+Find word "cepa (15)" in form "cepa" from line 93 to line 96.
+Find word "ineo (4056)" in form "ineo" from line 111 to line 114.
+Find word "eres (15)" in form "eres" from line 176 to line 179.
+Find word "novi (15)" in form "noui" from line 348 to line 351.
+Find word "imus (24)" in form "imus" from line 438 to line 441.
+Find word "asto (2498)" in form "asto" from line 486 to line 489.
+Find word "apis (1924)" in form "apis" from line 553 to line 556.
+Find word "quin (5639)" in form "quin" from line 618 to line 621.
+Find word "hira (136)" in form "hira" from line 630 to line 633.
+Find word "Uspe (123)" in form "uspe" from line 677 to line 680.
+Find word "pisa (19)" in form "pisa" from line 778 to line 781.

@@ -1,41 +1,41 @@
-Find word "dedisco" in form "dedisic" from line 301 to line 307.
-Find word "disicio" in form "disicnn" from line 303 to line 309.
-Find word "Mevia" in form "meuiasu" from line 505 to line 511.
-Find word "Euias" in form "euiasuu" from line 506 to line 512.
-Find word "dedico" in form "dedices" from line 566 to line 572.
-Find word "missio" in form "missiaq" from line 629 to line 635.
-Find word "Mevia" in form "meuias" from line 505 to line 510.
-Find word "Euias" in form "euiasu" from line 506 to line 511.
-Find word "dedico" in form "dedice" from line 566 to line 571.
-Find word "missio" in form "missia" from line 629 to line 634.
-Find word "pubis" in form "pubit" from line 58 to line 62.
-Find word "Nape" in form "napep" from line 89 to line 93.
-Find word "cilio" in form "ciliq" from line 94 to line 98.
-Find word "morum" in form "morug" from line 120 to line 124.
-Find word "Cotta" in form "cotte" from line 161 to line 165.
-Find word "lene" in form "leneh" from line 186 to line 190.
-Find word "antae" in form "antad" from line 209 to line 213.
-Find word "Adad" in form "adadd" from line 212 to line 216.
-Find word "Chius" in form "chiup" from line 235 to line 239.
-Find word "ensis" in form "ensil" from line 371 to line 375.
-Find word "Mevia" in form "meuia" from line 505 to line 509.
-Find word "Euias" in form "euias" from line 506 to line 510.
-Find word "usio" in form "usiou" from line 526 to line 530.
-Find word "ausim" in form "ausil" from line 553 to line 557.
-Find word "Sila" in form "silai" from line 555 to line 559.
-Find word "Laius" in form "laiup" from line 557 to line 561.
-Find word "edico" in form "edice" from line 567 to line 571.
-Find word "dice" in form "dices" from line 568 to line 572.
-Find word "pege" in form "pegeu" from line 581 to line 585.
-Find word "tinca" in form "tincs" from line 609 to line 613.
-Find word "ammi" in form "ammis" from line 627 to line 631.
-Find word "missa" in form "missi" from line 629 to line 633.
-Find word "lutea" in form "lutee" from line 639 to line 643.
-Find word "Nape" in form "nape" from line 89 to line 92.
-Find word "lene" in form "lene" from line 186 to line 189.
-Find word "Adad" in form "adad" from line 212 to line 215.
-Find word "usio" in form "usio" from line 526 to line 529.
-Find word "Sila" in form "sila" from line 555 to line 558.
-Find word "dice" in form "dice" from line 568 to line 571.
-Find word "pege" in form "pege" from line 581 to line 584.
-Find word "ammi" in form "ammi" from line 627 to line 630.
+Find word "dedisco (749)" in form "dedisic" from line 301 to line 307.
+Find word "disicio (1935)" in form "disicnn" from line 303 to line 309.
+Find word "Mevia (60)" in form "meuiasu" from line 505 to line 511.
+Find word "Euias (23)" in form "euiasuu" from line 506 to line 512.
+Find word "dedico (2716)" in form "dedices" from line 566 to line 572.
+Find word "missio (1994)" in form "missiaq" from line 629 to line 635.
+Find word "Mevia (60)" in form "meuias" from line 505 to line 510.
+Find word "Euias (23)" in form "euiasu" from line 506 to line 511.
+Find word "dedico (2716)" in form "dedice" from line 566 to line 571.
+Find word "missio (1994)" in form "missia" from line 629 to line 634.
+Find word "pubis (30)" in form "pubit" from line 58 to line 62.
+Find word "Nape (87)" in form "napep" from line 89 to line 93.
+Find word "cilio (91)" in form "ciliq" from line 94 to line 98.
+Find word "morum (193)" in form "morug" from line 120 to line 124.
+Find word "Cotta (27)" in form "cotte" from line 161 to line 165.
+Find word "lene (25)" in form "leneh" from line 186 to line 190.
+Find word "antae (227)" in form "antad" from line 209 to line 213.
+Find word "Adad (82)" in form "adadd" from line 212 to line 216.
+Find word "Chius (23)" in form "chiup" from line 235 to line 239.
+Find word "ensis (652)" in form "ensil" from line 371 to line 375.
+Find word "Mevia (60)" in form "meuia" from line 505 to line 509.
+Find word "Euias (23)" in form "euias" from line 506 to line 510.
+Find word "usio (288)" in form "usiou" from line 526 to line 530.
+Find word "ausim (21)" in form "ausil" from line 553 to line 557.
+Find word "Sila (331)" in form "silai" from line 555 to line 559.
+Find word "Laius (258)" in form "laiup" from line 557 to line 561.
+Find word "edico (2816)" in form "edice" from line 567 to line 571.
+Find word "dice (33)" in form "dices" from line 568 to line 572.
+Find word "pege (77)" in form "pegeu" from line 581 to line 585.
+Find word "tinca (89)" in form "tincs" from line 609 to line 613.
+Find word "ammi (227)" in form "ammis" from line 627 to line 631.
+Find word "missa (62)" in form "missi" from line 629 to line 633.
+Find word "lutea (72)" in form "lutee" from line 639 to line 643.
+Find word "Nape (87)" in form "nape" from line 89 to line 92.
+Find word "lene (25)" in form "lene" from line 186 to line 189.
+Find word "Adad (82)" in form "adad" from line 212 to line 215.
+Find word "usio (288)" in form "usio" from line 526 to line 529.
+Find word "Sila (331)" in form "sila" from line 555 to line 558.
+Find word "dice (33)" in form "dice" from line 568 to line 571.
+Find word "pege (77)" in form "pege" from line 581 to line 584.
+Find word "ammi (227)" in form "ammi" from line 627 to line 630.

@@ -18,21 +18,25 @@ public class LoadDictionary {
             System.out.println("Reading Latin dictionary, Lewis and Short...");
 
             String s = reader.readLine();
-            // Get rid of the whitespaces before words in each line.
-            int start = 0;
-            while (s.charAt(start) == ' ') {
-                start++;
-            }
-            s = s.substring(start);
 
             // Take of the standard word form by extract the first word in
             // each dictionary entry until EOF.
+            // OUTPUT: word + " (" + (explanation length (letters) of the word + ")"
             while (s != null) {
+                int len = s.length();
+                // Get rid of the whitespaces before words in each line.
+                int start = 0;
+                while (start < len && s.charAt(start) == ' ') {
+                    start++;
+                }
+                s = s.substring(start);
+
                 if (s.length() > 1) {
                     s = truncate(s.substring(0, Math.min(s.length(), WORD_LENGTH)));
                     // Test whether String s is not an abbreviation of a word and
                     // the word length is long enough to have representations.
                     if (!s.endsWith(".") && s.length() > 1) {
+                        s = s + " (" + len + ")";
                         writer.write(s, 0, s.length());
                         writer.newLine();
                     }
@@ -86,7 +90,7 @@ public class LoadDictionary {
         // from the dictionary.
         for (int i = 0; i < s.length(); i++) {
             char c = s.charAt(i);
-            if (c == ',' || c == ' ') {
+            if (c == ',' || c == ' ' || c == '!' || c == ':') {
                 break;
             }
             c = letterHelper(c);

@@ -1,41 +1,41 @@
-Find word "iasides" in form "iasidtp" from line 15 to line 21.
-Find word "caiatio" in form "caiatad" from line 69 to line 75.
-Find word "nasica" in form "nasicld" from line 220 to line 226.
-Find word "ceratia" in form "cerataq" from line 230 to line 236.
-Find word "metitio" in form "metitsq" from line 458 to line 464.
-Find word "pectus" in form "pectuip" from line 535 to line 541.
-Find word "nasica" in form "nasicl" from line 220 to line 225.
-Find word "pectus" in form "pectui" from line 535 to line 540.
-Find word "iasis" in form "iasid" from line 15 to line 19.
-Find word "Caia" in form "caiat" from line 69 to line 73.
-Find word "Maedi" in form "maedp" from line 101 to line 105.
-Find word "sane" in form "sanee" from line 146 to line 150.
-Find word "dicio" in form "dicih" from line 164 to line 168.
-Find word "poema" in form "poemn" from line 196 to line 200.
-Find word "pina" in form "pinas" from line 218 to line 222.
-Find word "cera" in form "cerat" from line 230 to line 234.
-Find word "Erato" in form "erata" from line 231 to line 235.
-Find word "sagda" in form "sagde" from line 303 to line 307.
-Find word "stela" in form "stelm" from line 333 to line 337.
-Find word "pica" in form "picam" from line 423 to line 427.
-Find word "Metia" in form "metit" from line 458 to line 462.
-Find word "Caia" in form "caiae" from line 502 to line 506.
-Find word "pecto" in form "pectu" from line 535 to line 539.
-Find word "eadem" in form "eadea" from line 658 to line 662.
-Find word "capsa" in form "capst" from line 698 to line 702.
-Find word "pepo" in form "pepom" from line 722 to line 726.
-Find word "deruo" in form "derus" from line 756 to line 760.
-Find word "erus" in form "eruse" from line 757 to line 761.
-Find word "sepes" in form "sepei" from line 760 to line 764.
-Find word "equa" in form "equae" from line 781 to line 785.
-Find word "Aenea" in form "aenet" from line 784 to line 788.
-Find word "Aecae" in form "aecai" from line 791 to line 795.
-Find word "Caia" in form "caia" from line 69 to line 72.
-Find word "sane" in form "sane" from line 146 to line 149.
-Find word "pina" in form "pina" from line 218 to line 221.
-Find word "cera" in form "cera" from line 230 to line 233.
-Find word "pica" in form "pica" from line 423 to line 426.
-Find word "Caia" in form "caia" from line 502 to line 505.
-Find word "pepo" in form "pepo" from line 722 to line 725.
-Find word "erus" in form "erus" from line 757 to line 760.
-Find word "equa" in form "equa" from line 781 to line 784.
+Find word "iasides (36)" in form "iasidtp" from line 15 to line 21.
+Find word "caiatio (104)" in form "caiatad" from line 69 to line 75.
+Find word "nasica (85)" in form "nasicld" from line 220 to line 226.
+Find word "ceratia (78)" in form "cerataq" from line 230 to line 236.
+Find word "metitio (68)" in form "metitsq" from line 458 to line 464.
+Find word "pectus (3787)" in form "pectuip" from line 535 to line 541.
+Find word "nasica (85)" in form "nasicl" from line 220 to line 225.
+Find word "pectus (3787)" in form "pectui" from line 535 to line 540.
+Find word "iasis (40)" in form "iasid" from line 15 to line 19.
+Find word "Caia (15)" in form "caiat" from line 69 to line 73.
+Find word "Maedi (330)" in form "maedp" from line 101 to line 105.
+Find word "sane (25)" in form "sanee" from line 146 to line 150.
+Find word "dicio (2820)" in form "dicih" from line 164 to line 168.
+Find word "poema (1644)" in form "poemn" from line 196 to line 200.
+Find word "pina (170)" in form "pinas" from line 218 to line 222.
+Find word "cera (1189)" in form "cerat" from line 230 to line 234.
+Find word "Erato (255)" in form "erata" from line 231 to line 235.
+Find word "sagda (78)" in form "sagde" from line 303 to line 307.
+Find word "stela (111)" in form "stelm" from line 333 to line 337.
+Find word "pica (154)" in form "picam" from line 423 to line 427.
+Find word "Metia (73)" in form "metit" from line 458 to line 462.
+Find word "Caia (15)" in form "caiae" from line 502 to line 506.
+Find word "pecto (1219)" in form "pectu" from line 535 to line 539.
+Find word "eadem (722)" in form "eadea" from line 658 to line 662.
+Find word "capsa (262)" in form "capst" from line 698 to line 702.
+Find word "pepo (162)" in form "pepom" from line 722 to line 726.
+Find word "deruo (290)" in form "derus" from line 756 to line 760.
+Find word "erus (1574)" in form "eruse" from line 757 to line 761.
+Find word "sepes (78)" in form "sepei" from line 760 to line 764.
+Find word "equa (328)" in form "equae" from line 781 to line 785.
+Find word "Aenea (21)" in form "aenet" from line 784 to line 788.
+Find word "Aecae (158)" in form "aecai" from line 791 to line 795.
+Find word "Caia (15)" in form "caia" from line 69 to line 72.
+Find word "sane (25)" in form "sane" from line 146 to line 149.
+Find word "pina (170)" in form "pina" from line 218 to line 221.
+Find word "cera (1189)" in form "cera" from line 230 to line 233.
+Find word "pica (154)" in form "pica" from line 423 to line 426.
+Find word "Caia (15)" in form "caia" from line 502 to line 505.
+Find word "pepo (162)" in form "pepo" from line 722 to line 725.
+Find word "erus (1574)" in form "erus" from line 757 to line 760.
+Find word "equa (328)" in form "equa" from line 781 to line 784.

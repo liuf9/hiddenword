@@ -1,56 +1,56 @@
-Find word "concise" in form "concispea" from line 299 to line 307.
-Find word "concise" in form "concispe" from line 299 to line 306.
-Find word "isaias" in form "isaianp" from line 67 to line 73.
-Find word "aduncus" in form "aduncmo" from line 204 to line 210.
-Find word "concido" in form "concisp" from line 299 to line 305.
-Find word "iapetus" in form "iapettc" from line 504 to line 510.
-Find word "nanus" in form "nanusss" from line 907 to line 913.
-Find word "isaias" in form "isaian" from line 67 to line 72.
-Find word "concio" in form "concis" from line 299 to line 304.
-Find word "nanus" in form "nanuss" from line 907 to line 912.
-Find word "aster" in form "astei" from line 4 to line 8.
-Find word "nica" in form "nicad" from line 11 to line 15.
-Find word "picea" in form "picee" from line 86 to line 90.
-Find word "posca" in form "poscd" from line 113 to line 117.
-Find word "pinso" in form "pinsm" from line 140 to line 144.
-Find word "seps" in form "sepsa" from line 167 to line 171.
-Find word "nisi" in form "nisic" from line 190 to line 194.
-Find word "aduno" in form "adunc" from line 204 to line 208.
-Find word "Caca" in form "cacaf" from line 250 to line 254.
-Find word "actum" in form "actuu" from line 260 to line 264.
-Find word "beta" in form "betap" from line 274 to line 278.
-Find word "coco" in form "cocon" from line 297 to line 301.
-Find word "batia" in form "batit" from line 333 to line 337.
-Find word "assis" in form "assif" from line 354 to line 358.
-Find word "scena" in form "sceno" from line 368 to line 372.
-Find word "ceno" in form "cenoo" from line 369 to line 373.
-Find word "apto" in form "aptoo" from line 540 to line 544.
-Find word "fotus" in form "fotue" from line 664 to line 668.
-Find word "Teate" in form "teats" from line 671 to line 675.
-Find word "Iapis" in form "iapid" from line 709 to line 713.
-Find word "Euan" in form "euani" from line 743 to line 747.
-Find word "trini" in form "trina" from line 756 to line 760.
-Find word "Maedi" in form "maedn" from line 797 to line 801.
-Find word "nave" in form "nauei" from line 815 to line 819.
-Find word "nassa" in form "nasso" from line 824 to line 828.
-Find word "asso" in form "assoo" from line 825 to line 829.
-Find word "Susa" in form "susah" from line 834 to line 838.
-Find word "nanus" in form "nanus" from line 907 to line 911.
-Find word "anus" in form "anuss" from line 908 to line 912.
-Find word "puta" in form "putae" from line 931 to line 935.
-Find word "aera" in form "aerau" from line 934 to line 938.
-Find word "nica" in form "nica" from line 11 to line 14.
-Find word "seps" in form "seps" from line 167 to line 170.
-Find word "nisi" in form "nisi" from line 190 to line 193.
-Find word "Caca" in form "caca" from line 250 to line 253.
-Find word "beta" in form "beta" from line 274 to line 277.
-Find word "coco" in form "coco" from line 297 to line 300.
-Find word "ceno" in form "ceno" from line 369 to line 372.
-Find word "apto" in form "apto" from line 540 to line 543.
-Find word "Euan" in form "euan" from line 743 to line 746.
-Find word "nave" in form "naue" from line 815 to line 818.
-Find word "asso" in form "asso" from line 825 to line 828.
-Find word "Susa" in form "susa" from line 834 to line 837.
-Find word "anus" in form "anus" from line 908 to line 911.
-Find word "puta" in form "puta" from line 931 to line 934.
-Find word "aera" in form "aera" from line 934 to line 937.
+Find word "concise (40)" in form "concispea" from line 299 to line 307.
+Find word "concise (40)" in form "concispe" from line 299 to line 306.
+Find word "isaias (123)" in form "isaianp" from line 67 to line 73.
+Find word "aduncus (541)" in form "aduncmo" from line 204 to line 210.
+Find word "concido (3533)" in form "concisp" from line 299 to line 305.
+Find word "iapetus (416)" in form "iapettc" from line 504 to line 510.
+Find word "nanus (562)" in form "nanusss" from line 907 to line 913.
+Find word "isaias (123)" in form "isaian" from line 67 to line 72.
+Find word "concio (24)" in form "concis" from line 299 to line 304.
+Find word "nanus (562)" in form "nanuss" from line 907 to line 912.
+Find word "aster (320)" in form "astei" from line 4 to line 8.
+Find word "nica (165)" in form "nicad" from line 11 to line 15.
+Find word "picea (154)" in form "picee" from line 86 to line 90.
+Find word "posca (289)" in form "poscd" from line 113 to line 117.
+Find word "pinso (820)" in form "pinsm" from line 140 to line 144.
+Find word "seps (337)" in form "sepsa" from line 167 to line 171.
+Find word "nisi (3821)" in form "nisic" from line 190 to line 194.
+Find word "aduno (314)" in form "adunc" from line 204 to line 208.
+Find word "Caca (75)" in form "cacaf" from line 250 to line 254.
+Find word "actum (17)" in form "actuu" from line 260 to line 264.
+Find word "beta (330)" in form "betap" from line 274 to line 278.
+Find word "coco (90)" in form "cocon" from line 297 to line 301.
+Find word "batia (81)" in form "batit" from line 333 to line 337.
+Find word "assis (32)" in form "assif" from line 354 to line 358.
+Find word "scena (17)" in form "sceno" from line 368 to line 372.
+Find word "ceno (2359)" in form "cenoo" from line 369 to line 373.
+Find word "apto (2186)" in form "aptoo" from line 540 to line 544.
+Find word "fotus (32)" in form "fotue" from line 664 to line 668.
+Find word "Teate (170)" in form "teats" from line 671 to line 675.
+Find word "Iapis (75)" in form "iapid" from line 709 to line 713.
+Find word "Euan (15)" in form "euani" from line 743 to line 747.
+Find word "trini (1223)" in form "trina" from line 756 to line 760.
+Find word "Maedi (330)" in form "maedn" from line 797 to line 801.
+Find word "nave (30)" in form "nauei" from line 815 to line 819.
+Find word "nassa (658)" in form "nasso" from line 824 to line 828.
+Find word "asso (192)" in form "assoo" from line 825 to line 829.
+Find word "Susa (475)" in form "susah" from line 834 to line 838.
+Find word "nanus (562)" in form "nanus" from line 907 to line 911.
+Find word "anus (385)" in form "anuss" from line 908 to line 912.
+Find word "puta (26)" in form "putae" from line 931 to line 935.
+Find word "aera (470)" in form "aerau" from line 934 to line 938.
+Find word "nica (165)" in form "nica" from line 11 to line 14.
+Find word "seps (337)" in form "seps" from line 167 to line 170.
+Find word "nisi (3821)" in form "nisi" from line 190 to line 193.
+Find word "Caca (75)" in form "caca" from line 250 to line 253.
+Find word "beta (330)" in form "beta" from line 274 to line 277.
+Find word "coco (90)" in form "coco" from line 297 to line 300.
+Find word "ceno (2359)" in form "ceno" from line 369 to line 372.
+Find word "apto (2186)" in form "apto" from line 540 to line 543.
+Find word "Euan (15)" in form "euan" from line 743 to line 746.
+Find word "nave (30)" in form "naue" from line 815 to line 818.
+Find word "asso (192)" in form "asso" from line 825 to line 828.
+Find word "Susa (475)" in form "susa" from line 834 to line 837.
+Find word "anus (385)" in form "anus" from line 908 to line 911.
+Find word "puta (26)" in form "puta" from line 931 to line 934.
+Find word "aera (470)" in form "aera" from line 934 to line 937.

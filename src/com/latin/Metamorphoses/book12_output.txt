@@ -1,38 +1,38 @@
-Find word "succumbo" in form "succumrph" from line 238 to line 246.
-Find word "succumbo" in form "succumrp" from line 238 to line 245.
-Find word "Cotta" in form "cottaif" from line 17 to line 23.
-Find word "fassus" in form "fassucc" from line 235 to line 241.
-Find word "succuba" in form "succumr" from line 238 to line 244.
-Find word "erineos" in form "erineah" from line 248 to line 254.
-Find word "Nessus" in form "nessumd" from line 504 to line 510.
-Find word "atina" in form "atinain" from line 610 to line 616.
-Find word "Cotta" in form "cottai" from line 17 to line 22.
-Find word "fassus" in form "fassuc" from line 235 to line 240.
-Find word "succus" in form "succum" from line 238 to line 243.
-Find word "Nessus" in form "nessum" from line 504 to line 509.
-Find word "atina" in form "atinai" from line 610 to line 615.
-Find word "amnis" in form "amnia" from line 6 to line 10.
-Find word "Cotta" in form "cotta" from line 17 to line 21.
-Find word "tendo" in form "tendm" from line 92 to line 96.
-Find word "ausim" in form "ausii" from line 120 to line 124.
-Find word "mica" in form "micap" from line 160 to line 164.
-Find word "capio" in form "capiq" from line 162 to line 166.
-Find word "Auser" in form "ausem" from line 197 to line 201.
-Find word "sitio" in form "sitif" from line 231 to line 235.
-Find word "assum" in form "assuc" from line 236 to line 240.
-Find word "Succi" in form "succu" from line 238 to line 242.
-Find word "leria" in form "lerin" from line 247 to line 251.
-Find word "Cati" in form "catic" from line 274 to line 278.
-Find word "Setia" in form "setio" from line 280 to line 284.
-Find word "Paean" in form "paeap" from line 377 to line 381.
-Find word "fusio" in form "fusin" from line 451 to line 455.
-Find word "cavea" in form "cauet" from line 467 to line 471.
-Find word "Essui" in form "essum" from line 505 to line 509.
-Find word "aetas" in form "aetau" from line 521 to line 525.
-Find word "oiei" in form "oieim" from line 586 to line 590.
-Find word "atina" in form "atina" from line 610 to line 614.
-Find word "tina" in form "tinai" from line 611 to line 615.
-Find word "mica" in form "mica" from line 160 to line 163.
-Find word "Cati" in form "cati" from line 274 to line 277.
-Find word "oiei" in form "oiei" from line 586 to line 589.
-Find word "tina" in form "tina" from line 611 to line 614.
+Find word "succumbo (2081)" in form "succumrph" from line 238 to line 246.
+Find word "succumbo (2081)" in form "succumrp" from line 238 to line 245.
+Find word "Cotta (27)" in form "cottaif" from line 17 to line 23.
+Find word "fassus (34)" in form "fassucc" from line 235 to line 241.
+Find word "succuba (261)" in form "succumr" from line 238 to line 244.
+Find word "erineos (98)" in form "erineah" from line 248 to line 254.
+Find word "Nessus (440)" in form "nessumd" from line 504 to line 510.
+Find word "atina (523)" in form "atinain" from line 610 to line 616.
+Find word "Cotta (27)" in form "cottai" from line 17 to line 22.
+Find word "fassus (34)" in form "fassuc" from line 235 to line 240.
+Find word "succus (20)" in form "succum" from line 238 to line 243.
+Find word "Nessus (440)" in form "nessum" from line 504 to line 509.
+Find word "atina (523)" in form "atinai" from line 610 to line 615.
+Find word "amnis (2687)" in form "amnia" from line 6 to line 10.
+Find word "Cotta (27)" in form "cotta" from line 17 to line 21.
+Find word "tendo (7783)" in form "tendm" from line 92 to line 96.
+Find word "ausim (21)" in form "ausii" from line 120 to line 124.
+Find word "mica (611)" in form "micap" from line 160 to line 164.
+Find word "capio (32201)" in form "capiq" from line 162 to line 166.
+Find word "Auser (186)" in form "ausem" from line 197 to line 201.
+Find word "sitio (3366)" in form "sitif" from line 231 to line 235.
+Find word "assum (16)" in form "assuc" from line 236 to line 240.
+Find word "Succi (52)" in form "succu" from line 238 to line 242.
+Find word "leria (61)" in form "lerin" from line 247 to line 251.
+Find word "Cati (162)" in form "catic" from line 274 to line 278.
+Find word "Setia (899)" in form "setio" from line 280 to line 284.
+Find word "Paean (777)" in form "paeap" from line 377 to line 381.
+Find word "fusio (462)" in form "fusin" from line 451 to line 455.
+Find word "cavea (1357)" in form "cauet" from line 467 to line 471.
+Find word "Essui (170)" in form "essum" from line 505 to line 509.
+Find word "aetas (4400)" in form "aetau" from line 521 to line 525.
+Find word "oiei (77)" in form "oieim" from line 586 to line 590.
+Find word "atina (523)" in form "atina" from line 610 to line 614.
+Find word "tina (133)" in form "tinai" from line 611 to line 615.
+Find word "mica (611)" in form "mica" from line 160 to line 163.
+Find word "Cati (162)" in form "cati" from line 274 to line 277.
+Find word "oiei (77)" in form "oiei" from line 586 to line 589.
+Find word "tina (133)" in form "tina" from line 611 to line 614.

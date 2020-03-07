@@ -1,44 +1,44 @@
-Find word "innervis" in form "innerufcs" from line 690 to line 698.
-Find word "innervis" in form "innerufc" from line 690 to line 697.
-Find word "discedo" in form "disceqa" from line 252 to line 258.
-Find word "infaeco" in form "infaenm" from line 295 to line 301.
-Find word "napina" in form "napinta" from line 423 to line 429.
-Find word "resero" in form "reserit" from line 433 to line 439.
-Find word "seritas" in form "seritth" from line 435 to line 441.
-Find word "napina" in form "napint" from line 423 to line 428.
-Find word "resero" in form "reseri" from line 433 to line 438.
-Find word "deus" in form "deusc" from line 29 to line 33.
-Find word "nacta" in form "nacts" from line 72 to line 76.
-Find word "Nisa" in form "nisaq" from line 78 to line 82.
-Find word "Aspar" in form "aspai" from line 89 to line 93.
-Find word "tinca" in form "tincn" from line 183 to line 187.
-Find word "picea" in form "pices" from line 188 to line 192.
-Find word "tecum" in form "tecui" from line 232 to line 236.
-Find word "disco" in form "disce" from line 252 to line 256.
-Find word "Ninus" in form "ninuc" from line 302 to line 306.
-Find word "redo" in form "redoq" from line 348 to line 352.
-Find word "pupa" in form "pupau" from line 374 to line 378.
-Find word "audax" in form "audam" from line 377 to line 381.
-Find word "Livia" in form "liuim" from line 387 to line 391.
-Find word "Apina" in form "apint" from line 424 to line 428.
-Find word "Cres" in form "crese" from line 432 to line 436.
-Find word "reses" in form "reser" from line 433 to line 437.
-Find word "seria" in form "serit" from line 435 to line 439.
-Find word "usus" in form "ususe" from line 494 to line 498.
-Find word "sese" in form "seseb" from line 497 to line 501.
-Find word "apium" in form "apiuu" from line 530 to line 534.
-Find word "catta" in form "cattu" from line 557 to line 561.
-Find word "accio" in form "accib" from line 608 to line 612.
-Find word "calco" in form "calcf" from line 628 to line 632.
-Find word "Dino" in form "dinol" from line 645 to line 649.
-Find word "Nerva" in form "neruf" from line 692 to line 696.
-Find word "cudo" in form "cudoe" from line 742 to line 746.
-Find word "deus" in form "deus" from line 29 to line 32.
-Find word "Nisa" in form "nisa" from line 78 to line 81.
-Find word "redo" in form "redo" from line 348 to line 351.
-Find word "pupa" in form "pupa" from line 374 to line 377.
-Find word "Cres" in form "cres" from line 432 to line 435.
-Find word "usus" in form "usus" from line 494 to line 497.
-Find word "sese" in form "sese" from line 497 to line 500.
-Find word "Dino" in form "dino" from line 645 to line 648.
-Find word "cudo" in form "cudo" from line 742 to line 745.
+Find word "innervis (98)" in form "innerufcs" from line 690 to line 698.
+Find word "innervis (98)" in form "innerufc" from line 690 to line 697.
+Find word "discedo (7686)" in form "disceqa" from line 252 to line 258.
+Find word "infaeco (100)" in form "infaenm" from line 295 to line 301.
+Find word "napina (53)" in form "napinta" from line 423 to line 429.
+Find word "resero (149)" in form "reserit" from line 433 to line 439.
+Find word "seritas (102)" in form "seritth" from line 435 to line 441.
+Find word "napina (53)" in form "napint" from line 423 to line 428.
+Find word "resero (149)" in form "reseri" from line 433 to line 438.
+Find word "deus (5805)" in form "deusc" from line 29 to line 33.
+Find word "nacta (24)" in form "nacts" from line 72 to line 76.
+Find word "Nisa (51)" in form "nisaq" from line 78 to line 82.
+Find word "Aspar (53)" in form "aspai" from line 89 to line 93.
+Find word "tinca (89)" in form "tincn" from line 183 to line 187.
+Find word "picea (154)" in form "pices" from line 188 to line 192.
+Find word "tecum (27)" in form "tecui" from line 232 to line 236.
+Find word "disco (3037)" in form "disce" from line 252 to line 256.
+Find word "Ninus (353)" in form "ninuc" from line 302 to line 306.
+Find word "redo (65)" in form "redoq" from line 348 to line 352.
+Find word "pupa (207)" in form "pupau" from line 374 to line 378.
+Find word "audax (3242)" in form "audam" from line 377 to line 381.
+Find word "Livia (17)" in form "liuim" from line 387 to line 391.
+Find word "Apina (261)" in form "apint" from line 424 to line 428.
+Find word "Cres (28)" in form "crese" from line 432 to line 436.
+Find word "reses (1020)" in form "reser" from line 433 to line 437.
+Find word "seria (288)" in form "serit" from line 435 to line 439.
+Find word "usus (27)" in form "ususe" from line 494 to line 498.
+Find word "sese (13)" in form "seseb" from line 497 to line 501.
+Find word "apium (623)" in form "apiuu" from line 530 to line 534.
+Find word "catta (127)" in form "cattu" from line 557 to line 561.
+Find word "accio (742)" in form "accib" from line 608 to line 612.
+Find word "calco (1700)" in form "calcf" from line 628 to line 632.
+Find word "Dino (148)" in form "dinol" from line 645 to line 649.
+Find word "Nerva (239)" in form "neruf" from line 692 to line 696.
+Find word "cudo (594)" in form "cudoe" from line 742 to line 746.
+Find word "deus (5805)" in form "deus" from line 29 to line 32.
+Find word "Nisa (51)" in form "nisa" from line 78 to line 81.
+Find word "redo (65)" in form "redo" from line 348 to line 351.
+Find word "pupa (207)" in form "pupa" from line 374 to line 377.
+Find word "Cres (28)" in form "cres" from line 432 to line 435.
+Find word "usus (27)" in form "usus" from line 494 to line 497.
+Find word "sese (13)" in form "sese" from line 497 to line 500.
+Find word "Dino (148)" in form "dino" from line 645 to line 648.
+Find word "cudo (594)" in form "cudo" from line 742 to line 745.

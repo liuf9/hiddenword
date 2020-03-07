@@ -1,31 +1,31 @@
-Find word "auresco" in form "auresih" from line 341 to line 347.
-Find word "diditus" in form "didithl" from line 358 to line 364.
-Find word "edecimo" in form "edeciqo" from line 474 to line 480.
-Find word "Pelia" in form "pelii" from line 56 to line 60.
-Find word "Sinis" in form "sinie" from line 75 to line 79.
-Find word "cado" in form "cadoq" from line 102 to line 106.
-Find word "asser" in form "assem" from line 108 to line 112.
-Find word "Chaon" in form "chaoi" from line 126 to line 130.
-Find word "cania" in form "canii" from line 138 to line 142.
-Find word "dicio" in form "dicif" from line 144 to line 148.
-Find word "ganta" in form "gantf" from line 207 to line 211.
-Find word "cremo" in form "crems" from line 213 to line 217.
-Find word "Deana" in form "deanp" from line 224 to line 228.
-Find word "doto" in form "dotoe" from line 318 to line 322.
-Find word "Mauri" in form "maure" from line 340 to line 344.
-Find word "aurea" in form "aures" from line 341 to line 345.
-Find word "Ahala" in form "ahald" from line 387 to line 391.
-Find word "macia" in form "macic" from line 401 to line 405.
-Find word "etsi" in form "etsin" from line 421 to line 425.
-Find word "lasar" in form "lasas" from line 528 to line 532.
-Find word "asser" in form "assee" from line 531 to line 535.
-Find word "achor" in form "achoo" from line 554 to line 558.
-Find word "laeta" in form "laetr" from line 582 to line 586.
-Find word "salto" in form "saltn" from line 665 to line 669.
-Find word "caupo" in form "cauph" from line 671 to line 675.
-Find word "Osci" in form "oscid" from line 685 to line 689.
-Find word "scida" in form "scidt" from line 686 to line 690.
-Find word "cado" in form "cado" from line 102 to line 105.
-Find word "doto" in form "doto" from line 318 to line 321.
-Find word "etsi" in form "etsi" from line 421 to line 424.
-Find word "Osci" in form "osci" from line 685 to line 688.
+Find word "auresco (103)" in form "auresih" from line 341 to line 347.
+Find word "diditus (36)" in form "didithl" from line 358 to line 364.
+Find word "edecimo (221)" in form "edeciqo" from line 474 to line 480.
+Find word "Pelia (29)" in form "pelii" from line 56 to line 60.
+Find word "Sinis (311)" in form "sinie" from line 75 to line 79.
+Find word "cado (16181)" in form "cadoq" from line 102 to line 106.
+Find word "asser (440)" in form "assem" from line 108 to line 112.
+Find word "Chaon (79)" in form "chaoi" from line 126 to line 130.
+Find word "cania (61)" in form "canii" from line 138 to line 142.
+Find word "dicio (2820)" in form "dicif" from line 144 to line 148.
+Find word "ganta (204)" in form "gantf" from line 207 to line 211.
+Find word "cremo (1068)" in form "crems" from line 213 to line 217.
+Find word "Deana (24)" in form "deanp" from line 224 to line 228.
+Find word "doto (826)" in form "dotoe" from line 318 to line 322.
+Find word "Mauri (1750)" in form "maure" from line 340 to line 344.
+Find word "aurea (160)" in form "aures" from line 341 to line 345.
+Find word "Ahala (129)" in form "ahald" from line 387 to line 391.
+Find word "macia (80)" in form "macic" from line 401 to line 405.
+Find word "etsi (2038)" in form "etsin" from line 421 to line 425.
+Find word "lasar (16)" in form "lasas" from line 528 to line 532.
+Find word "asser (440)" in form "assee" from line 531 to line 535.
+Find word "achor (98)" in form "achoo" from line 554 to line 558.
+Find word "laeta (26)" in form "laetr" from line 582 to line 586.
+Find word "salto (2177)" in form "saltn" from line 665 to line 669.
+Find word "caupo (412)" in form "cauph" from line 671 to line 675.
+Find word "Osci (491)" in form "oscid" from line 685 to line 689.
+Find word "scida (226)" in form "scidt" from line 686 to line 690.
+Find word "cado (16181)" in form "cado" from line 102 to line 105.
+Find word "doto (826)" in form "doto" from line 318 to line 321.
+Find word "etsi (2038)" in form "etsi" from line 421 to line 424.
+Find word "Osci (491)" in form "osci" from line 685 to line 688.

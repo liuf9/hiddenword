@@ -1,44 +1,44 @@
-Find word "adjecto" in form "adiecnc" from line 12 to line 18.
-Find word "odice" in form "odicenc" from line 41 to line 47.
-Find word "centrum" in form "centrei" from line 47 to line 53.
-Find word "adipsos" in form "adipsfi" from line 76 to line 82.
-Find word "pudens" in form "pudenid" from line 575 to line 581.
-Find word "odice" in form "odicen" from line 41 to line 46.
-Find word "pudens" in form "pudeni" from line 575 to line 580.
-Find word "Cadi" in form "cadie" from line 11 to line 15.
-Find word "hodie" in form "hodic" from line 40 to line 44.
-Find word "odice" in form "odice" from line 41 to line 45.
-Find word "dice" in form "dicen" from line 42 to line 46.
-Find word "Iceni" in form "icenc" from line 43 to line 47.
-Find word "cento" in form "centr" from line 47 to line 51.
-Find word "treis" in form "treip" from line 50 to line 54.
-Find word "acide" in form "acidf" from line 140 to line 144.
-Find word "fons" in form "fonsa" from line 249 to line 253.
-Find word "mulsa" in form "mulsp" from line 265 to line 269.
-Find word "accio" in form "accii" from line 276 to line 280.
-Find word "liquo" in form "liqua" from line 294 to line 298.
-Find word "fons" in form "fonsb" from line 307 to line 311.
-Find word "moveo" in form "mouee" from line 330 to line 334.
-Find word "tufa" in form "tufaa" from line 353 to line 357.
-Find word "cette" in form "cettr" from line 440 to line 444.
-Find word "hepar" in form "hepae" from line 531 to line 535.
-Find word "apud" in form "apude" from line 574 to line 578.
-Find word "pudeo" in form "puden" from line 575 to line 579.
-Find word "deni" in form "denid" from line 577 to line 581.
-Find word "idem" in form "ideml" from line 580 to line 584.
-Find word "sedum" in form "sedup" from line 600 to line 604.
-Find word "navus" in form "nauun" from line 614 to line 618.
-Find word "cuci" in form "cucia" from line 684 to line 688.
-Find word "Hanno" in form "hanne" from line 750 to line 754.
-Find word "anne" in form "annen" from line 751 to line 755.
-Find word "cavea" in form "cauec" from line 780 to line 784.
-Find word "Cadi" in form "cadi" from line 11 to line 14.
-Find word "dice" in form "dice" from line 42 to line 45.
-Find word "fons" in form "fons" from line 249 to line 252.
-Find word "fons" in form "fons" from line 307 to line 310.
-Find word "tufa" in form "tufa" from line 353 to line 356.
-Find word "apud" in form "apud" from line 574 to line 577.
-Find word "deni" in form "deni" from line 577 to line 580.
-Find word "idem" in form "idem" from line 580 to line 583.
-Find word "cuci" in form "cuci" from line 684 to line 687.
-Find word "anne" in form "anne" from line 751 to line 754.
+Find word "adjecto (52)" in form "adiecnc" from line 12 to line 18.
+Find word "odice (57)" in form "odicenc" from line 41 to line 47.
+Find word "centrum (544)" in form "centrei" from line 47 to line 53.
+Find word "adipsos (137)" in form "adipsfi" from line 76 to line 82.
+Find word "pudens (60)" in form "pudenid" from line 575 to line 581.
+Find word "odice (57)" in form "odicen" from line 41 to line 46.
+Find word "pudens (60)" in form "pudeni" from line 575 to line 580.
+Find word "Cadi (78)" in form "cadie" from line 11 to line 15.
+Find word "hodie (2390)" in form "hodic" from line 40 to line 44.
+Find word "odice (57)" in form "odice" from line 41 to line 45.
+Find word "dice (33)" in form "dicen" from line 42 to line 46.
+Find word "Iceni (104)" in form "icenc" from line 43 to line 47.
+Find word "cento (596)" in form "centr" from line 47 to line 51.
+Find word "treis (28)" in form "treip" from line 50 to line 54.
+Find word "acide (27)" in form "acidf" from line 140 to line 144.
+Find word "fons (3184)" in form "fonsa" from line 249 to line 253.
+Find word "mulsa (38)" in form "mulsp" from line 265 to line 269.
+Find word "accio (742)" in form "accii" from line 276 to line 280.
+Find word "liquo (739)" in form "liqua" from line 294 to line 298.
+Find word "fons (3184)" in form "fonsb" from line 307 to line 311.
+Find word "moveo (5831)" in form "mouee" from line 330 to line 334.
+Find word "tufa (149)" in form "tufaa" from line 353 to line 357.
+Find word "cette (18)" in form "cettr" from line 440 to line 444.
+Find word "hepar (145)" in form "hepae" from line 531 to line 535.
+Find word "apud (27495)" in form "apude" from line 574 to line 578.
+Find word "pudeo (3898)" in form "puden" from line 575 to line 579.
+Find word "deni (554)" in form "denid" from line 577 to line 581.
+Find word "idem (6717)" in form "ideml" from line 580 to line 584.
+Find word "sedum (26)" in form "sedup" from line 600 to line 604.
+Find word "navus (1195)" in form "nauun" from line 614 to line 618.
+Find word "cuci (122)" in form "cucia" from line 684 to line 688.
+Find word "Hanno (229)" in form "hanne" from line 750 to line 754.
+Find word "anne (21)" in form "annen" from line 751 to line 755.
+Find word "cavea (1357)" in form "cauec" from line 780 to line 784.
+Find word "Cadi (78)" in form "cadi" from line 11 to line 14.
+Find word "dice (33)" in form "dice" from line 42 to line 45.
+Find word "fons (3184)" in form "fons" from line 249 to line 252.
+Find word "fons (3184)" in form "fons" from line 307 to line 310.
+Find word "tufa (149)" in form "tufa" from line 353 to line 356.
+Find word "apud (27495)" in form "apud" from line 574 to line 577.
+Find word "deni (554)" in form "deni" from line 577 to line 580.
+Find word "idem (6717)" in form "idem" from line 580 to line 583.
+Find word "cuci (122)" in form "cuci" from line 684 to line 687.
+Find word "anne (21)" in form "anne" from line 751 to line 754.

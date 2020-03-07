@@ -1,66 +1,66 @@
-Find word "nitido" in form "nitidopan" from line 531 to line 539.
-Find word "centesimo" in form "centesmci" from line 621 to line 629.
-Find word "nitido" in form "nitidopa" from line 531 to line 538.
-Find word "delta" in form "deltaee" from line 296 to line 302.
-Find word "nitide" in form "nitidop" from line 531 to line 537.
-Find word "centeni" in form "centesm" from line 621 to line 627.
-Find word "arens" in form "arensdc" from line 737 to line 743.
-Find word "pumico" in form "pumicqc" from line 859 to line 865.
-Find word "delta" in form "deltae" from line 296 to line 301.
-Find word "nitide" in form "nitido" from line 531 to line 536.
-Find word "arens" in form "arensd" from line 737 to line 742.
-Find word "pumico" in form "pumicq" from line 859 to line 864.
-Find word "etsi" in form "etsia" from line 18 to line 22.
-Find word "inudo" in form "inudc" from line 63 to line 67.
-Find word "idea" in form "ideap" from line 71 to line 75.
-Find word "Andes" in form "andeq" from line 120 to line 124.
-Find word "munia" in form "munip" from line 137 to line 141.
-Find word "Lasia" in form "lasid" from line 175 to line 179.
-Find word "decor" in form "decoo" from line 182 to line 186.
-Find word "Auson" in form "ausoc" from line 193 to line 197.
-Find word "hehae" in form "hehau" from line 214 to line 218.
-Find word "Troes" in form "troea" from line 226 to line 230.
-Find word "capta" in form "captq" from line 275 to line 279.
-Find word "delta" in form "delta" from line 296 to line 300.
-Find word "hepar" in form "hepao" from line 311 to line 315.
-Find word "orce" in form "orcet" from line 315 to line 319.
-Find word "cette" in form "cettu" from line 317 to line 321.
-Find word "scala" in form "scalu" from line 331 to line 335.
-Find word "calva" in form "caluh" from line 332 to line 336.
-Find word "Oscus" in form "oscui" from line 397 to line 401.
-Find word "cesso" in form "cesse" from line 461 to line 465.
-Find word "aedis" in form "aedie" from line 488 to line 492.
-Find word "dies" in form "diesu" from line 490 to line 494.
-Find word "Iesus" in form "iesuh" from line 491 to line 495.
-Find word "asius" in form "asiui" from line 511 to line 515.
-Find word "nenia" in form "nenit" from line 529 to line 533.
-Find word "cici" in form "ciciu" from line 584 to line 588.
-Find word "civis" in form "ciuih" from line 586 to line 590.
-Find word "pera" in form "perad" from line 592 to line 596.
-Find word "erado" in form "eradd" from line 593 to line 597.
-Find word "deamo" in form "deams" from line 597 to line 601.
-Find word "Iceni" in form "icent" from line 620 to line 624.
-Find word "cento" in form "cente" from line 621 to line 625.
-Find word "eicio" in form "eiciu" from line 638 to line 642.
-Find word "sacer" in form "saceu" from line 665 to line 669.
-Find word "dius" in form "diusc" from line 683 to line 687.
-Find word "buda" in form "budan" from line 695 to line 699.
-Find word "nisi" in form "nisid" from line 723 to line 727.
-Find word "nares" in form "naren" from line 736 to line 740.
-Find word "arena" in form "arens" from line 737 to line 741.
-Find word "coda" in form "codat" from line 749 to line 753.
-Find word "pica" in form "picao" from line 759 to line 763.
-Find word "Punus" in form "punui" from line 819 to line 823.
-Find word "acia" in form "aciat" from line 826 to line 830.
-Find word "etsi" in form "etsi" from line 18 to line 21.
-Find word "idea" in form "idea" from line 71 to line 74.
-Find word "orce" in form "orce" from line 315 to line 318.
-Find word "dies" in form "dies" from line 490 to line 493.
-Find word "cici" in form "cici" from line 584 to line 587.
-Find word "pera" in form "pera" from line 592 to line 595.
-Find word "dius" in form "dius" from line 683 to line 686.
-Find word "buda" in form "buda" from line 695 to line 698.
-Find word "nisi" in form "nisi" from line 723 to line 726.
-Find word "coda" in form "coda" from line 749 to line 752.
-Find word "pica" in form "pica" from line 759 to line 762.
-Find word "acia" in form "acia" from line 826 to line 829.
+Find word "nitido (451)" in form "nitidopan" from line 531 to line 539.
+Find word "centesimo (121)" in form "centesmci" from line 621 to line 629.
+Find word "nitido (451)" in form "nitidopa" from line 531 to line 538.
+Find word "delta (351)" in form "deltaee" from line 296 to line 302.
+Find word "nitide (29)" in form "nitidop" from line 531 to line 537.
+Find word "centeni (828)" in form "centesm" from line 621 to line 627.
+Find word "arens (31)" in form "arensdc" from line 737 to line 743.
+Find word "pumico (558)" in form "pumicqc" from line 859 to line 865.
+Find word "delta (351)" in form "deltae" from line 296 to line 301.
+Find word "nitide (29)" in form "nitido" from line 531 to line 536.
+Find word "arens (31)" in form "arensd" from line 737 to line 742.
+Find word "pumico (558)" in form "pumicq" from line 859 to line 864.
+Find word "etsi (2038)" in form "etsia" from line 18 to line 22.
+Find word "inudo (76)" in form "inudc" from line 63 to line 67.
+Find word "idea (138)" in form "ideap" from line 71 to line 75.
+Find word "Andes (265)" in form "andeq" from line 120 to line 124.
+Find word "munia (1049)" in form "munip" from line 137 to line 141.
+Find word "Lasia (127)" in form "lasid" from line 175 to line 179.
+Find word "decor (1146)" in form "decoo" from line 182 to line 186.
+Find word "Auson (31)" in form "ausoc" from line 193 to line 197.
+Find word "hehae (96)" in form "hehau" from line 214 to line 218.
+Find word "Troes (28)" in form "troea" from line 226 to line 230.
+Find word "capta (23)" in form "captq" from line 275 to line 279.
+Find word "delta (351)" in form "delta" from line 296 to line 300.
+Find word "hepar (145)" in form "hepao" from line 311 to line 315.
+Find word "orce (12)" in form "orcet" from line 315 to line 319.
+Find word "cette (18)" in form "cettu" from line 317 to line 321.
+Find word "scala (1348)" in form "scalu" from line 331 to line 335.
+Find word "calva (21)" in form "caluh" from line 332 to line 336.
+Find word "Oscus (22)" in form "oscui" from line 397 to line 401.
+Find word "cesso (4786)" in form "cesse" from line 461 to line 465.
+Find word "aedis (16)" in form "aedie" from line 488 to line 492.
+Find word "dies (14788)" in form "diesu" from line 490 to line 494.
+Find word "Iesus (102)" in form "iesuh" from line 491 to line 495.
+Find word "asius (42)" in form "asiui" from line 511 to line 515.
+Find word "nenia (1373)" in form "nenit" from line 529 to line 533.
+Find word "cici (162)" in form "ciciu" from line 584 to line 588.
+Find word "civis (1997)" in form "ciuih" from line 586 to line 590.
+Find word "pera (244)" in form "perad" from line 592 to line 596.
+Find word "erado (874)" in form "eradd" from line 593 to line 597.
+Find word "deamo (579)" in form "deams" from line 597 to line 601.
+Find word "Iceni (104)" in form "icent" from line 620 to line 624.
+Find word "cento (596)" in form "cente" from line 621 to line 625.
+Find word "eicio (3306)" in form "eiciu" from line 638 to line 642.
+Find word "sacer (13630)" in form "saceu" from line 665 to line 669.
+Find word "dius (22)" in form "diusc" from line 683 to line 687.
+Find word "buda (95)" in form "budan" from line 695 to line 699.
+Find word "nisi (3821)" in form "nisid" from line 723 to line 727.
+Find word "nares (21)" in form "naren" from line 736 to line 740.
+Find word "arena (25)" in form "arens" from line 737 to line 741.
+Find word "coda (19)" in form "codat" from line 749 to line 753.
+Find word "pica (154)" in form "picao" from line 759 to line 763.
+Find word "Punus (152)" in form "punui" from line 819 to line 823.
+Find word "acia (113)" in form "aciat" from line 826 to line 830.
+Find word "etsi (2038)" in form "etsi" from line 18 to line 21.
+Find word "idea (138)" in form "idea" from line 71 to line 74.
+Find word "orce (12)" in form "orce" from line 315 to line 318.
+Find word "dies (14788)" in form "dies" from line 490 to line 493.
+Find word "cici (162)" in form "cici" from line 584 to line 587.
+Find word "pera (244)" in form "pera" from line 592 to line 595.
+Find word "dius (22)" in form "dius" from line 683 to line 686.
+Find word "buda (95)" in form "buda" from line 695 to line 698.
+Find word "nisi (3821)" in form "nisi" from line 723 to line 726.
+Find word "coda (19)" in form "coda" from line 749 to line 752.
+Find word "pica (154)" in form "pica" from line 759 to line 762.
+Find word "acia (113)" in form "acia" from line 826 to line 829.

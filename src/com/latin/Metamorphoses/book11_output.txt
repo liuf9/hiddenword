@@ -1,51 +1,51 @@
-Find word "isiacus" in form "isiacuipe" from line 668 to line 676.
-Find word "isiacus" in form "isiacuip" from line 668 to line 675.
-Find word "faecula" in form "faecuad" from line 126 to line 132.
-Find word "sappium" in form "sappiou" from line 168 to line 174.
-Find word "daphne" in form "daphnui" from line 255 to line 261.
-Find word "Osinius" in form "osinilc" from line 321 to line 327.
-Find word "diripio" in form "diripdm" from line 381 to line 387.
-Find word "offundo" in form "offunsp" from line 550 to line 556.
-Find word "inadf" in form "inadfio" from line 571 to line 577.
-Find word "penes" in form "penesnh" from line 595 to line 601.
-Find word "isiacus" in form "isiacui" from line 668 to line 674.
-Find word "daphne" in form "daphnu" from line 255 to line 260.
-Find word "inadf" in form "inadfi" from line 571 to line 576.
-Find word "penes" in form "penesn" from line 595 to line 600.
-Find word "tepor" in form "tepoe" from line 2 to line 6.
-Find word "cuci" in form "cucih" from line 60 to line 64.
-Find word "hara" in form "harao" from line 89 to line 93.
-Find word "mica" in form "mical" from line 101 to line 105.
-Find word "calla" in form "callp" from line 103 to line 107.
-Find word "Appia" in form "appio" from line 169 to line 173.
-Find word "datio" in form "datin" from line 249 to line 253.
-Find word "atina" in form "atins" from line 250 to line 254.
-Find word "iste" in form "istee" from line 261 to line 265.
-Find word "Sinis" in form "sinil" from line 322 to line 326.
-Find word "peuce" in form "peucf" from line 337 to line 341.
-Find word "fovea" in form "foues" from line 341 to line 345.
-Find word "sapo" in form "sapoc" from line 472 to line 476.
-Find word "occa" in form "occap" from line 475 to line 479.
-Find word "rufo" in form "rufof" from line 547 to line 551.
-Find word "inadc" in form "inadf" from line 571 to line 575.
-Find word "asius" in form "asiue" from line 583 to line 587.
-Find word "sive" in form "siues" from line 584 to line 588.
-Find word "item" in form "itemq" from line 590 to line 594.
-Find word "pene" in form "penes" from line 595 to line 599.
-Find word "Medi" in form "medip" from line 647 to line 651.
-Find word "Thais" in form "thain" from line 657 to line 661.
-Find word "nona" in form "nonao" from line 661 to line 665.
-Find word "navus" in form "nauua" from line 686 to line 690.
-Find word "Panda" in form "pands" from line 780 to line 784.
-Find word "cuci" in form "cuci" from line 60 to line 63.
-Find word "hara" in form "hara" from line 89 to line 92.
-Find word "mica" in form "mica" from line 101 to line 104.
-Find word "iste" in form "iste" from line 261 to line 264.
-Find word "sapo" in form "sapo" from line 472 to line 475.
-Find word "occa" in form "occa" from line 475 to line 478.
-Find word "rufo" in form "rufo" from line 547 to line 550.
-Find word "sive" in form "siue" from line 584 to line 587.
-Find word "item" in form "item" from line 590 to line 593.
-Find word "pene" in form "pene" from line 595 to line 598.
-Find word "Medi" in form "medi" from line 647 to line 650.
-Find word "nona" in form "nona" from line 661 to line 664.
+Find word "isiacus (28)" in form "isiacuipe" from line 668 to line 676.
+Find word "isiacus (28)" in form "isiacuip" from line 668 to line 675.
+Find word "faecula (246)" in form "faecuad" from line 126 to line 132.
+Find word "sappium (24)" in form "sappiou" from line 168 to line 174.
+Find word "daphne (698)" in form "daphnui" from line 255 to line 261.
+Find word "Osinius (71)" in form "osinilc" from line 321 to line 327.
+Find word "diripio (1964)" in form "diripdm" from line 381 to line 387.
+Find word "offundo (1434)" in form "offunsp" from line 550 to line 556.
+Find word "inadf (18)" in form "inadfio" from line 571 to line 577.
+Find word "penes (1693)" in form "penesnh" from line 595 to line 601.
+Find word "isiacus (28)" in form "isiacui" from line 668 to line 674.
+Find word "daphne (698)" in form "daphnu" from line 255 to line 260.
+Find word "inadf (18)" in form "inadfi" from line 571 to line 576.
+Find word "penes (1693)" in form "penesn" from line 595 to line 600.
+Find word "tepor (820)" in form "tepoe" from line 2 to line 6.
+Find word "cuci (122)" in form "cucih" from line 60 to line 64.
+Find word "hara (347)" in form "harao" from line 89 to line 93.
+Find word "mica (611)" in form "mical" from line 101 to line 105.
+Find word "calla (16)" in form "callp" from line 103 to line 107.
+Find word "Appia (17)" in form "appio" from line 169 to line 173.
+Find word "datio (478)" in form "datin" from line 249 to line 253.
+Find word "atina (523)" in form "atins" from line 250 to line 254.
+Find word "iste (3529)" in form "istee" from line 261 to line 265.
+Find word "Sinis (311)" in form "sinil" from line 322 to line 326.
+Find word "peuce (121)" in form "peucf" from line 337 to line 341.
+Find word "fovea (699)" in form "foues" from line 341 to line 345.
+Find word "sapo (95)" in form "sapoc" from line 472 to line 476.
+Find word "occa (120)" in form "occap" from line 475 to line 479.
+Find word "rufo (117)" in form "rufof" from line 547 to line 551.
+Find word "inadc (18)" in form "inadf" from line 571 to line 575.
+Find word "asius (42)" in form "asiue" from line 583 to line 587.
+Find word "sive (6968)" in form "siues" from line 584 to line 588.
+Find word "item (2047)" in form "itemq" from line 590 to line 594.
+Find word "pene (21)" in form "penes" from line 595 to line 599.
+Find word "Medi (1208)" in form "medip" from line 647 to line 651.
+Find word "Thais (234)" in form "thain" from line 657 to line 661.
+Find word "nona (23)" in form "nonao" from line 661 to line 665.
+Find word "navus (1195)" in form "nauua" from line 686 to line 690.
+Find word "Panda (324)" in form "pands" from line 780 to line 784.
+Find word "cuci (122)" in form "cuci" from line 60 to line 63.
+Find word "hara (347)" in form "hara" from line 89 to line 92.
+Find word "mica (611)" in form "mica" from line 101 to line 104.
+Find word "iste (3529)" in form "iste" from line 261 to line 264.
+Find word "sapo (95)" in form "sapo" from line 472 to line 475.
+Find word "occa (120)" in form "occa" from line 475 to line 478.
+Find word "rufo (117)" in form "rufo" from line 547 to line 550.
+Find word "sive (6968)" in form "siue" from line 584 to line 587.
+Find word "item (2047)" in form "item" from line 590 to line 593.
+Find word "pene (21)" in form "pene" from line 595 to line 598.
+Find word "Medi (1208)" in form "medi" from line 647 to line 650.
+Find word "nona (23)" in form "nona" from line 661 to line 664.

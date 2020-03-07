@@ -1,57 +1,57 @@
-Find word "sappium" in form "sappiuuep" from line 178 to line 186.
-Find word "sappium" in form "sappiuue" from line 178 to line 185.
-Find word "sappium" in form "sappiuu" from line 178 to line 184.
-Find word "Appius" in form "appiuue" from line 179 to line 185.
-Find word "sequior" in form "sequiic" from line 577 to line 583.
-Find word "irinus" in form "irinurn" from line 622 to line 628.
-Find word "nession" in form "nessipm" from line 704 to line 710.
-Find word "Sunium" in form "suniuue" from line 714 to line 720.
-Find word "seduco" in form "seduchi" from line 731 to line 737.
-Find word "Appius" in form "appiuu" from line 179 to line 184.
-Find word "irinus" in form "irinur" from line 622 to line 627.
-Find word "Sunium" in form "suniuu" from line 714 to line 719.
-Find word "seduco" in form "seduch" from line 731 to line 736.
-Find word "eneco" in form "enecu" from line 31 to line 35.
-Find word "curto" in form "curtg" from line 34 to line 38.
-Find word "Scaea" in form "scaeo" from line 59 to line 63.
-Find word "fusio" in form "fusim" from line 68 to line 72.
-Find word "ensis" in form "ensir" from line 78 to line 82.
-Find word "Sirae" in form "siras" from line 80 to line 84.
-Find word "alio" in form "alioe" from line 103 to line 107.
-Find word "Appia" in form "appiu" from line 179 to line 183.
-Find word "Caius" in form "caium" from line 231 to line 235.
-Find word "muto" in form "mutoc" from line 235 to line 239.
-Find word "Nais" in form "naise" from line 248 to line 252.
-Find word "asina" in form "asinn" from line 261 to line 265.
-Find word "Setia" in form "setif" from line 445 to line 449.
-Find word "Aecae" in form "aecau" from line 454 to line 458.
-Find word "cauma" in form "caums" from line 456 to line 460.
-Find word "saeve" in form "saeua" from line 460 to line 464.
-Find word "Apina" in form "apinq" from line 465 to line 469.
-Find word "David" in form "dauip" from line 496 to line 500.
-Find word "assum" in form "assuu" from line 506 to line 510.
-Find word "piens" in form "piena" from line 513 to line 517.
-Find word "enato" in form "enatm" from line 515 to line 519.
-Find word "maia" in form "maian" from line 519 to line 523.
-Find word "sapio" in form "sapit" from line 536 to line 540.
-Find word "pinso" in form "pinsb" from line 568 to line 572.
-Find word "equio" in form "equii" from line 578 to line 582.
-Find word "acta" in form "actaf" from line 585 to line 589.
-Find word "mirio" in form "mirin" from line 621 to line 625.
-Find word "Irine" in form "irinu" from line 622 to line 626.
-Find word "inuro" in form "inurn" from line 624 to line 628.
-Find word "pusus" in form "pusuq" from line 658 to line 662.
-Find word "iulus" in form "iulue" from line 699 to line 703.
-Find word "desub" in form "desun" from line 712 to line 716.
-Find word "sese" in form "sesed" from line 729 to line 733.
-Find word "sedum" in form "seduc" from line 731 to line 735.
-Find word "educo" in form "educh" from line 732 to line 736.
-Find word "pumex" in form "pumeu" from line 749 to line 753.
-Find word "oliva" in form "oliuf" from line 790 to line 794.
-Find word "pasco" in form "pascq" from line 833 to line 837.
-Find word "alio" in form "alio" from line 103 to line 106.
-Find word "muto" in form "muto" from line 235 to line 238.
-Find word "Nais" in form "nais" from line 248 to line 251.
-Find word "maia" in form "maia" from line 519 to line 522.
-Find word "acta" in form "acta" from line 585 to line 588.
-Find word "sese" in form "sese" from line 729 to line 732.
+Find word "sappium (24)" in form "sappiuuep" from line 178 to line 186.
+Find word "sappium (24)" in form "sappiuue" from line 178 to line 185.
+Find word "sappium (24)" in form "sappiuu" from line 178 to line 184.
+Find word "Appius (1142)" in form "appiuue" from line 179 to line 185.
+Find word "sequior (39)" in form "sequiic" from line 577 to line 583.
+Find word "irinus (245)" in form "irinurn" from line 622 to line 628.
+Find word "nession (62)" in form "nessipm" from line 704 to line 710.
+Find word "Sunium (279)" in form "suniuue" from line 714 to line 720.
+Find word "seduco (2461)" in form "seduchi" from line 731 to line 737.
+Find word "Appius (1142)" in form "appiuu" from line 179 to line 184.
+Find word "irinus (245)" in form "irinur" from line 622 to line 627.
+Find word "Sunium (279)" in form "suniuu" from line 714 to line 719.
+Find word "seduco (2461)" in form "seduch" from line 731 to line 736.
+Find word "eneco (1597)" in form "enecu" from line 31 to line 35.
+Find word "curto (245)" in form "curtg" from line 34 to line 38.
+Find word "Scaea (275)" in form "scaeo" from line 59 to line 63.
+Find word "fusio (462)" in form "fusim" from line 68 to line 72.
+Find word "ensis (652)" in form "ensir" from line 78 to line 82.
+Find word "Sirae (70)" in form "siras" from line 80 to line 84.
+Find word "alio (31)" in form "alioe" from line 103 to line 107.
+Find word "Appia (17)" in form "appiu" from line 179 to line 183.
+Find word "Caius (16)" in form "caium" from line 231 to line 235.
+Find word "muto (7354)" in form "mutoc" from line 235 to line 239.
+Find word "Nais (30)" in form "naise" from line 248 to line 252.
+Find word "asina (572)" in form "asinn" from line 261 to line 265.
+Find word "Setia (899)" in form "setif" from line 445 to line 449.
+Find word "Aecae (158)" in form "aecau" from line 454 to line 458.
+Find word "cauma (54)" in form "caums" from line 456 to line 460.
+Find word "saeve (30)" in form "saeua" from line 460 to line 464.
+Find word "Apina (261)" in form "apinq" from line 465 to line 469.
+Find word "David (375)" in form "dauip" from line 496 to line 500.
+Find word "assum (16)" in form "assuu" from line 506 to line 510.
+Find word "piens (22)" in form "piena" from line 513 to line 517.
+Find word "enato (291)" in form "enatm" from line 515 to line 519.
+Find word "maia (76)" in form "maian" from line 519 to line 523.
+Find word "sapio (10711)" in form "sapit" from line 536 to line 540.
+Find word "pinso (820)" in form "pinsb" from line 568 to line 572.
+Find word "equio (98)" in form "equii" from line 578 to line 582.
+Find word "acta (229)" in form "actaf" from line 585 to line 589.
+Find word "mirio (145)" in form "mirin" from line 621 to line 625.
+Find word "Irine (93)" in form "irinu" from line 622 to line 626.
+Find word "inuro (1626)" in form "inurn" from line 624 to line 628.
+Find word "pusus (77)" in form "pusuq" from line 658 to line 662.
+Find word "iulus (98)" in form "iulue" from line 699 to line 703.
+Find word "desub (289)" in form "desun" from line 712 to line 716.
+Find word "sese (13)" in form "sesed" from line 729 to line 733.
+Find word "sedum (26)" in form "seduc" from line 731 to line 735.
+Find word "educo (5656)" in form "educh" from line 732 to line 736.
+Find word "pumex (784)" in form "pumeu" from line 749 to line 753.
+Find word "oliva (680)" in form "oliuf" from line 790 to line 794.
+Find word "pasco (4175)" in form "pascq" from line 833 to line 837.
+Find word "alio (31)" in form "alio" from line 103 to line 106.
+Find word "muto (7354)" in form "muto" from line 235 to line 238.
+Find word "Nais (30)" in form "nais" from line 248 to line 251.
+Find word "maia (76)" in form "maia" from line 519 to line 522.
+Find word "acta (229)" in form "acta" from line 585 to line 588.
+Find word "sese (13)" in form "sese" from line 729 to line 732.

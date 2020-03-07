@@ -1,44 +1,44 @@
-Find word "aulicus" in form "aulicuuqa" from line 439 to line 447.
-Find word "aulicus" in form "aulicuuq" from line 439 to line 446.
-Find word "Aeaea" in form "aeaeatp" from line 323 to line 329.
-Find word "aulicus" in form "aulicuu" from line 439 to line 445.
-Find word "mistim" in form "mistiep" from line 700 to line 706.
-Find word "Aeaea" in form "aeaeat" from line 323 to line 328.
-Find word "mistim" in form "mistie" from line 700 to line 705.
-Find word "Savus" in form "sauui" from line 66 to line 70.
-Find word "pinso" in form "pinsa" from line 97 to line 101.
-Find word "salar" in form "salaa" from line 103 to line 107.
-Find word "Asoi" in form "asoii" from line 107 to line 111.
-Find word "Aeas" in form "aeasa" from line 141 to line 145.
-Find word "pisum" in form "pisud" from line 160 to line 164.
-Find word "adsum" in form "adsua" from line 176 to line 180.
-Find word "iasis" in form "iasif" from line 276 to line 280.
-Find word "Aeaea" in form "aeaea" from line 323 to line 327.
-Find word "Aulis" in form "aulic" from line 439 to line 443.
-Find word "Licus" in form "licuu" from line 441 to line 445.
-Find word "eicio" in form "eicia" from line 468 to line 472.
-Find word "Ciani" in form "cianm" from line 470 to line 474.
-Find word "sese" in form "sesen" from line 518 to line 522.
-Find word "Sena" in form "senan" from line 520 to line 524.
-Find word "ango" in form "angoc" from line 523 to line 527.
-Find word "Isse" in form "issea" from line 546 to line 550.
-Find word "neve" in form "neuee" from line 555 to line 559.
-Find word "satum" in form "satua" from line 648 to line 652.
-Find word "pius" in form "piusi" from line 658 to line 662.
-Find word "isti" in form "istie" from line 701 to line 705.
-Find word "inadc" in form "inadh" from line 710 to line 714.
-Find word "upupa" in form "upupe" from line 748 to line 752.
-Find word "penis" in form "penie" from line 755 to line 759.
-Find word "asta" in form "astaq" from line 774 to line 778.
-Find word "papo" in form "papoe" from line 799 to line 803.
-Find word "Asoi" in form "asoi" from line 107 to line 110.
-Find word "Aeas" in form "aeas" from line 141 to line 144.
-Find word "sese" in form "sese" from line 518 to line 521.
-Find word "Sena" in form "sena" from line 520 to line 523.
-Find word "ango" in form "ango" from line 523 to line 526.
-Find word "Isse" in form "isse" from line 546 to line 549.
-Find word "neve" in form "neue" from line 555 to line 558.
-Find word "pius" in form "pius" from line 658 to line 661.
-Find word "isti" in form "isti" from line 701 to line 704.
-Find word "asta" in form "asta" from line 774 to line 777.
-Find word "papo" in form "papo" from line 799 to line 802.
+Find word "aulicus (211)" in form "aulicuuqa" from line 439 to line 447.
+Find word "aulicus (211)" in form "aulicuuq" from line 439 to line 446.
+Find word "Aeaea (262)" in form "aeaeatp" from line 323 to line 329.
+Find word "aulicus (211)" in form "aulicuu" from line 439 to line 445.
+Find word "mistim (53)" in form "mistiep" from line 700 to line 706.
+Find word "Aeaea (262)" in form "aeaeat" from line 323 to line 328.
+Find word "mistim (53)" in form "mistie" from line 700 to line 705.
+Find word "Savus (284)" in form "sauui" from line 66 to line 70.
+Find word "pinso (820)" in form "pinsa" from line 97 to line 101.
+Find word "salar (81)" in form "salaa" from line 103 to line 107.
+Find word "Asoi (62)" in form "asoii" from line 107 to line 111.
+Find word "Aeas (103)" in form "aeasa" from line 141 to line 145.
+Find word "pisum (192)" in form "pisud" from line 160 to line 164.
+Find word "adsum (7074)" in form "adsua" from line 176 to line 180.
+Find word "iasis (40)" in form "iasif" from line 276 to line 280.
+Find word "Aeaea (262)" in form "aeaea" from line 323 to line 327.
+Find word "Aulis (150)" in form "aulic" from line 439 to line 443.
+Find word "Licus (104)" in form "licuu" from line 441 to line 445.
+Find word "eicio (3306)" in form "eicia" from line 468 to line 472.
+Find word "Ciani (92)" in form "cianm" from line 470 to line 474.
+Find word "sese (13)" in form "sesen" from line 518 to line 522.
+Find word "Sena (436)" in form "senan" from line 520 to line 524.
+Find word "ango (2895)" in form "angoc" from line 523 to line 527.
+Find word "Isse (144)" in form "issea" from line 546 to line 550.
+Find word "neve (915)" in form "neuee" from line 555 to line 559.
+Find word "satum (158)" in form "satua" from line 648 to line 652.
+Find word "pius (3590)" in form "piusi" from line 658 to line 662.
+Find word "isti (26)" in form "istie" from line 701 to line 705.
+Find word "inadc (18)" in form "inadh" from line 710 to line 714.
+Find word "upupa (174)" in form "upupe" from line 748 to line 752.
+Find word "penis (498)" in form "penie" from line 755 to line 759.
+Find word "asta (23)" in form "astaq" from line 774 to line 778.
+Find word "papo (15)" in form "papoe" from line 799 to line 803.
+Find word "Asoi (62)" in form "asoi" from line 107 to line 110.
+Find word "Aeas (103)" in form "aeas" from line 141 to line 144.
+Find word "sese (13)" in form "sese" from line 518 to line 521.
+Find word "Sena (436)" in form "sena" from line 520 to line 523.
+Find word "ango (2895)" in form "ango" from line 523 to line 526.
+Find word "Isse (144)" in form "isse" from line 546 to line 549.
+Find word "neve (915)" in form "neue" from line 555 to line 558.
+Find word "pius (3590)" in form "pius" from line 658 to line 661.
+Find word "isti (26)" in form "isti" from line 701 to line 704.
+Find word "asta (23)" in form "asta" from line 774 to line 777.
+Find word "papo (15)" in form "papo" from line 799 to line 802.

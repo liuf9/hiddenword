@@ -1,20 +1,20 @@
-Find word "cruente" in form "cruenle" from line 717 to line 723.
-Find word "istac" in form "istam" from line 124 to line 128.
-Find word "Musia" in form "musih" from line 137 to line 141.
-Find word "Acmon" in form "acmoo" from line 167 to line 171.
-Find word "unda" in form "undap" from line 178 to line 182.
-Find word "aput" in form "aputc" from line 193 to line 197.
-Find word "Anius" in form "aniup" from line 200 to line 204.
-Find word "ipse" in form "ipseu" from line 332 to line 336.
-Find word "Talge" in form "talgt" from line 426 to line 430.
-Find word "acta" in form "actac" from line 445 to line 449.
-Find word "dato" in form "datou" from line 477 to line 481.
-Find word "ipse" in form "ipsen" from line 600 to line 604.
-Find word "seneo" in form "seneq" from line 602 to line 606.
-Find word "ochus" in form "ochud" from line 662 to line 666.
-Find word "unda" in form "unda" from line 178 to line 181.
-Find word "aput" in form "aput" from line 193 to line 196.
-Find word "ipse" in form "ipse" from line 332 to line 335.
-Find word "acta" in form "acta" from line 445 to line 448.
-Find word "dato" in form "dato" from line 477 to line 480.
-Find word "ipse" in form "ipse" from line 600 to line 603.
+Find word "cruente (34)" in form "cruenle" from line 717 to line 723.
+Find word "istac (363)" in form "istam" from line 124 to line 128.
+Find word "Musia (71)" in form "musih" from line 137 to line 141.
+Find word "Acmon (137)" in form "acmoo" from line 167 to line 171.
+Find word "unda (1862)" in form "undap" from line 178 to line 182.
+Find word "aput (19)" in form "aputc" from line 193 to line 197.
+Find word "Anius (154)" in form "aniup" from line 200 to line 204.
+Find word "ipse (15496)" in form "ipseu" from line 332 to line 336.
+Find word "Talge (64)" in form "talgt" from line 426 to line 430.
+Find word "acta (229)" in form "actac" from line 445 to line 449.
+Find word "dato (344)" in form "datou" from line 477 to line 481.
+Find word "ipse (15496)" in form "ipsen" from line 600 to line 604.
+Find word "seneo (291)" in form "seneq" from line 602 to line 606.
+Find word "ochus (236)" in form "ochud" from line 662 to line 666.
+Find word "unda (1862)" in form "unda" from line 178 to line 181.
+Find word "aput (19)" in form "aput" from line 193 to line 196.
+Find word "ipse (15496)" in form "ipse" from line 332 to line 335.
+Find word "acta (229)" in form "acta" from line 445 to line 448.
+Find word "dato (344)" in form "dato" from line 477 to line 480.
+Find word "ipse (15496)" in form "ipse" from line 600 to line 603.

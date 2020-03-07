@@ -1,47 +1,47 @@
-Find word "callum" in form "calludv" from line 257 to line 263.
-Find word "alludio" in form "alludvm" from line 258 to line 264.
-Find word "Sisenna" in form "sisenta" from line 680 to line 686.
-Find word "Senta" in form "sentait" from line 682 to line 688.
-Find word "callum" in form "callud" from line 257 to line 262.
-Find word "alludo" in form "alludv" from line 258 to line 263.
-Find word "Senta" in form "sentai" from line 682 to line 687.
-Find word "hieto" in form "hietu" from line 94 to line 98.
-Find word "cici" in form "cicih" from line 136 to line 140.
-Find word "calla" in form "callu" from line 257 to line 261.
-Find word "alluo" in form "allud" from line 258 to line 262.
-Find word "Chius" in form "chiun" from line 290 to line 294.
-Find word "tama" in form "tamaa" from line 300 to line 304.
-Find word "nete" in form "neten" from line 356 to line 360.
-Find word "nasus" in form "nasue" from line 363 to line 367.
-Find word "Ciani" in form "ciana" from line 438 to line 442.
-Find word "acia" in form "aciaa" from line 449 to line 453.
-Find word "caio" in form "caiod" from line 467 to line 471.
-Find word "Lasia" in form "lasih" from line 479 to line 483.
-Find word "heia" in form "heiap" from line 503 to line 507.
-Find word "tata" in form "tatam" from line 528 to line 532.
-Find word "pleo" in form "pleod" from line 577 to line 581.
-Find word "chara" in form "charq" from line 595 to line 599.
-Find word "otis" in form "otise" from line 623 to line 627.
-Find word "Sesia" in form "sesih" from line 626 to line 630.
-Find word "siser" in form "sisen" from line 680 to line 684.
-Find word "Senta" in form "senta" from line 682 to line 686.
-Find word "Ledus" in form "ledut" from line 715 to line 719.
-Find word "Euan" in form "euanc" from line 721 to line 725.
-Find word "Dicte" in form "dictc" from line 731 to line 735.
-Find word "civis" in form "ciuiq" from line 766 to line 770.
-Find word "scato" in form "scati" from line 837 to line 841.
-Find word "Cati" in form "catip" from line 838 to line 842.
-Find word "Iapis" in form "iapic" from line 843 to line 847.
-Find word "apica" in form "apicm" from line 844 to line 848.
-Find word "Aetna" in form "aetne" from line 850 to line 854.
-Find word "cici" in form "cici" from line 136 to line 139.
-Find word "tama" in form "tama" from line 300 to line 303.
-Find word "nete" in form "nete" from line 356 to line 359.
-Find word "acia" in form "acia" from line 449 to line 452.
-Find word "caio" in form "caio" from line 467 to line 470.
-Find word "heia" in form "heia" from line 503 to line 506.
-Find word "tata" in form "tata" from line 528 to line 531.
-Find word "pleo" in form "pleo" from line 577 to line 580.
-Find word "otis" in form "otis" from line 623 to line 626.
-Find word "Euan" in form "euan" from line 721 to line 724.
-Find word "Cati" in form "cati" from line 838 to line 841.
+Find word "callum (1317)" in form "calludv" from line 257 to line 263.
+Find word "alludio (238)" in form "alludvm" from line 258 to line 264.
+Find word "Sisenna (381)" in form "sisenta" from line 680 to line 686.
+Find word "Senta (87)" in form "sentait" from line 682 to line 688.
+Find word "callum (1317)" in form "callud" from line 257 to line 262.
+Find word "alludo (1087)" in form "alludv" from line 258 to line 263.
+Find word "Senta (87)" in form "sentai" from line 682 to line 687.
+Find word "hieto (392)" in form "hietu" from line 94 to line 98.
+Find word "cici (162)" in form "cicih" from line 136 to line 140.
+Find word "calla (16)" in form "callu" from line 257 to line 261.
+Find word "alluo (546)" in form "allud" from line 258 to line 262.
+Find word "Chius (23)" in form "chiun" from line 290 to line 294.
+Find word "tama (172)" in form "tamaa" from line 300 to line 304.
+Find word "nete (126)" in form "neten" from line 356 to line 360.
+Find word "nasus (1600)" in form "nasue" from line 363 to line 367.
+Find word "Ciani (92)" in form "ciana" from line 438 to line 442.
+Find word "acia (113)" in form "aciaa" from line 449 to line 453.
+Find word "caio (52)" in form "caiod" from line 467 to line 471.
+Find word "Lasia (127)" in form "lasih" from line 479 to line 483.
+Find word "heia (22)" in form "heiap" from line 503 to line 507.
+Find word "tata (254)" in form "tatam" from line 528 to line 532.
+Find word "pleo (163)" in form "pleod" from line 577 to line 581.
+Find word "chara (75)" in form "charq" from line 595 to line 599.
+Find word "otis (88)" in form "otise" from line 623 to line 627.
+Find word "Sesia (95)" in form "sesih" from line 626 to line 630.
+Find word "siser (234)" in form "sisen" from line 680 to line 684.
+Find word "Senta (87)" in form "senta" from line 682 to line 686.
+Find word "Ledus (79)" in form "ledut" from line 715 to line 719.
+Find word "Euan (15)" in form "euanc" from line 721 to line 725.
+Find word "Dicte (867)" in form "dictc" from line 731 to line 735.
+Find word "civis (1997)" in form "ciuiq" from line 766 to line 770.
+Find word "scato (26)" in form "scati" from line 837 to line 841.
+Find word "Cati (162)" in form "catip" from line 838 to line 842.
+Find word "Iapis (75)" in form "iapic" from line 843 to line 847.
+Find word "apica (170)" in form "apicm" from line 844 to line 848.
+Find word "Aetna (531)" in form "aetne" from line 850 to line 854.
+Find word "cici (162)" in form "cici" from line 136 to line 139.
+Find word "tama (172)" in form "tama" from line 300 to line 303.
+Find word "nete (126)" in form "nete" from line 356 to line 359.
+Find word "acia (113)" in form "acia" from line 449 to line 452.
+Find word "caio (52)" in form "caio" from line 467 to line 470.
+Find word "heia (22)" in form "heia" from line 503 to line 506.
+Find word "tata (254)" in form "tata" from line 528 to line 531.
+Find word "pleo (163)" in form "pleo" from line 577 to line 580.
+Find word "otis (88)" in form "otis" from line 623 to line 626.
+Find word "Euan (15)" in form "euan" from line 721 to line 724.
+Find word "Cati (162)" in form "cati" from line 838 to line 841.

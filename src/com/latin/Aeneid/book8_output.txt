@@ -1,25 +1,25 @@
-Find word "carpasum" in form "carpashdr" from line 636 to line 644.
-Find word "carpasum" in form "carpashd" from line 636 to line 643.
-Find word "iasis" in form "iasisps" from line 57 to line 63.
-Find word "iasis" in form "iasisp" from line 57 to line 62.
-Find word "iasis" in form "iasis" from line 57 to line 61.
-Find word "asis" in form "asisp" from line 58 to line 62.
-Find word "cepa" in form "cepac" from line 260 to line 264.
-Find word "Aspar" in form "aspai" from line 317 to line 321.
-Find word "equa" in form "equah" from line 338 to line 342.
-Find word "Thais" in form "thaid" from line 346 to line 350.
-Find word "Carmo" in form "carmr" from line 467 to line 471.
-Find word "sapo" in form "sapoa" from line 527 to line 531.
-Find word "Fovii" in form "fouit" from line 554 to line 558.
-Find word "Eris" in form "erisa" from line 597 to line 601.
-Find word "limne" in form "limnc" from line 632 to line 636.
-Find word "Carpi" in form "carpa" from line 636 to line 640.
-Find word "Lepta" in form "lepte" from line 664 to line 668.
-Find word "Buca" in form "bucac" from line 688 to line 692.
-Find word "noctu" in form "noctc" from line 697 to line 701.
-Find word "asis" in form "asis" from line 58 to line 61.
-Find word "cepa" in form "cepa" from line 260 to line 263.
-Find word "equa" in form "equa" from line 338 to line 341.
-Find word "sapo" in form "sapo" from line 527 to line 530.
-Find word "Eris" in form "eris" from line 597 to line 600.
-Find word "Buca" in form "buca" from line 688 to line 691.
+Find word "carpasum (143)" in form "carpashdr" from line 636 to line 644.
+Find word "carpasum (143)" in form "carpashd" from line 636 to line 643.
+Find word "iasis (40)" in form "iasisps" from line 57 to line 63.
+Find word "iasis (40)" in form "iasisp" from line 57 to line 62.
+Find word "iasis (40)" in form "iasis" from line 57 to line 61.
+Find word "asis (27)" in form "asisp" from line 58 to line 62.
+Find word "cepa (15)" in form "cepac" from line 260 to line 264.
+Find word "Aspar (53)" in form "aspai" from line 317 to line 321.
+Find word "equa (328)" in form "equah" from line 338 to line 342.
+Find word "Thais (234)" in form "thaid" from line 346 to line 350.
+Find word "Carmo (178)" in form "carmr" from line 467 to line 471.
+Find word "sapo (95)" in form "sapoa" from line 527 to line 531.
+Find word "Fovii (64)" in form "fouit" from line 554 to line 558.
+Find word "Eris (58)" in form "erisa" from line 597 to line 601.
+Find word "limne (88)" in form "limnc" from line 632 to line 636.
+Find word "Carpi (101)" in form "carpa" from line 636 to line 640.
+Find word "Lepta (172)" in form "lepte" from line 664 to line 668.
+Find word "Buca (144)" in form "bucac" from line 688 to line 692.
+Find word "noctu (14)" in form "noctc" from line 697 to line 701.
+Find word "asis (27)" in form "asis" from line 58 to line 61.
+Find word "cepa (15)" in form "cepa" from line 260 to line 263.
+Find word "equa (328)" in form "equa" from line 338 to line 341.
+Find word "sapo (95)" in form "sapo" from line 527 to line 530.
+Find word "Eris (58)" in form "eris" from line 597 to line 600.
+Find word "Buca (144)" in form "buca" from line 688 to line 691.

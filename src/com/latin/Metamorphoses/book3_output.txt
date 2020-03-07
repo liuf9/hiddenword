@@ -1,56 +1,56 @@
-Find word "Stoicida" in form "stoicifcs" from line 74 to line 82.
-Find word "Stoicida" in form "stoicifc" from line 74 to line 81.
-Find word "Stoice" in form "stoicif" from line 74 to line 80.
-Find word "spicio" in form "spiciqn" from line 178 to line 184.
-Find word "adicio" in form "adicipn" from line 205 to line 211.
-Find word "nestis" in form "nestini" from line 304 to line 310.
-Find word "cascus" in form "cascuoq" from line 511 to line 517.
-Find word "sirpe" in form "sirpeqh" from line 655 to line 661.
-Find word "pescia" in form "pesciun" from line 669 to line 675.
-Find word "isaias" in form "isaiant" from line 718 to line 724.
-Find word "Stoice" in form "stoici" from line 74 to line 79.
-Find word "spicio" in form "spiciq" from line 178 to line 183.
-Find word "adicio" in form "adicip" from line 205 to line 210.
-Find word "nestis" in form "nestin" from line 304 to line 309.
-Find word "cascus" in form "cascuo" from line 511 to line 516.
-Find word "sirpe" in form "sirpeq" from line 655 to line 660.
-Find word "pescia" in form "pesciu" from line 669 to line 674.
-Find word "isaias" in form "isaian" from line 718 to line 723.
-Find word "cieo" in form "cieof" from line 3 to line 7.
-Find word "sese" in form "sesee" from line 26 to line 30.
-Find word "civis" in form "ciuiu" from line 67 to line 71.
-Find word "spica" in form "spici" from line 178 to line 182.
-Find word "pansa" in form "pansd" from line 190 to line 194.
-Find word "Caeus" in form "caeum" from line 197 to line 201.
-Find word "dicio" in form "dicip" from line 206 to line 210.
-Find word "acies" in form "aciec" from line 235 to line 239.
-Find word "nana" in form "nanaq" from line 298 to line 302.
-Find word "civis" in form "ciuin" from line 342 to line 346.
-Find word "urna" in form "urnam" from line 349 to line 353.
-Find word "Aspar" in form "aspae" from line 438 to line 442.
-Find word "Mevia" in form "meuiu" from line 460 to line 464.
-Find word "nica" in form "nicas" from line 509 to line 513.
-Find word "icas" in form "icasc" from line 510 to line 514.
-Find word "Casca" in form "cascu" from line 511 to line 515.
-Find word "mena" in form "menaq" from line 550 to line 554.
-Find word "caesa" in form "caesl" from line 565 to line 569.
-Find word "laser" in form "laseq" from line 569 to line 573.
-Find word "fomes" in form "fomei" from line 578 to line 582.
-Find word "tufa" in form "tufad" from line 595 to line 599.
-Find word "pavus" in form "pauui" from line 604 to line 608.
-Find word "penis" in form "penip" from line 634 to line 638.
-Find word "sirpe" in form "sirpe" from line 655 to line 659.
-Find word "irpex" in form "irpeq" from line 656 to line 660.
-Find word "escit" in form "esciu" from line 670 to line 674.
-Find word "scius" in form "sciun" from line 671 to line 675.
-Find word "queis" in form "queic" from line 682 to line 686.
-Find word "capio" in form "capip" from line 690 to line 694.
-Find word "antae" in form "antac" from line 722 to line 726.
-Find word "cieo" in form "cieo" from line 3 to line 6.
-Find word "sese" in form "sese" from line 26 to line 29.
-Find word "nana" in form "nana" from line 298 to line 301.
-Find word "urna" in form "urna" from line 349 to line 352.
-Find word "nica" in form "nica" from line 509 to line 512.
-Find word "icas" in form "icas" from line 510 to line 513.
-Find word "mena" in form "mena" from line 550 to line 553.
-Find word "tufa" in form "tufa" from line 595 to line 598.
+Find word "Stoicida (98)" in form "stoicifcs" from line 74 to line 82.
+Find word "Stoicida (98)" in form "stoicifc" from line 74 to line 81.
+Find word "Stoice (25)" in form "stoicif" from line 74 to line 80.
+Find word "spicio (23)" in form "spiciqn" from line 178 to line 184.
+Find word "adicio (19)" in form "adicipn" from line 205 to line 211.
+Find word "nestis (196)" in form "nestini" from line 304 to line 310.
+Find word "cascus (444)" in form "cascuoq" from line 511 to line 517.
+Find word "sirpe (112)" in form "sirpeqh" from line 655 to line 661.
+Find word "pescia (159)" in form "pesciun" from line 669 to line 675.
+Find word "isaias (123)" in form "isaiant" from line 718 to line 724.
+Find word "Stoice (25)" in form "stoici" from line 74 to line 79.
+Find word "spicio (23)" in form "spiciq" from line 178 to line 183.
+Find word "adicio (19)" in form "adicip" from line 205 to line 210.
+Find word "nestis (196)" in form "nestin" from line 304 to line 309.
+Find word "cascus (444)" in form "cascuo" from line 511 to line 516.
+Find word "sirpe (112)" in form "sirpeq" from line 655 to line 660.
+Find word "pescia (159)" in form "pesciu" from line 669 to line 674.
+Find word "isaias (123)" in form "isaian" from line 718 to line 723.
+Find word "cieo (7326)" in form "cieof" from line 3 to line 7.
+Find word "sese (13)" in form "sesee" from line 26 to line 30.
+Find word "civis (1997)" in form "ciuiu" from line 67 to line 71.
+Find word "spica (1450)" in form "spici" from line 178 to line 182.
+Find word "pansa (71)" in form "pansd" from line 190 to line 194.
+Find word "Caeus (29)" in form "caeum" from line 197 to line 201.
+Find word "dicio (2820)" in form "dicip" from line 206 to line 210.
+Find word "acies (4507)" in form "aciec" from line 235 to line 239.
+Find word "nana (25)" in form "nanaq" from line 298 to line 302.
+Find word "civis (1997)" in form "ciuin" from line 342 to line 346.
+Find word "urna (1685)" in form "urnam" from line 349 to line 353.
+Find word "Aspar (53)" in form "aspae" from line 438 to line 442.
+Find word "Mevia (60)" in form "meuiu" from line 460 to line 464.
+Find word "nica (165)" in form "nicas" from line 509 to line 513.
+Find word "icas (298)" in form "icasc" from line 510 to line 514.
+Find word "Casca (164)" in form "cascu" from line 511 to line 515.
+Find word "mena (19)" in form "menaq" from line 550 to line 554.
+Find word "caesa (81)" in form "caesl" from line 565 to line 569.
+Find word "laser (440)" in form "laseq" from line 569 to line 573.
+Find word "fomes (517)" in form "fomei" from line 578 to line 582.
+Find word "tufa (149)" in form "tufad" from line 595 to line 599.
+Find word "pavus (23)" in form "pauui" from line 604 to line 608.
+Find word "penis (498)" in form "penip" from line 634 to line 638.
+Find word "sirpe (112)" in form "sirpe" from line 655 to line 659.
+Find word "irpex (212)" in form "irpeq" from line 656 to line 660.
+Find word "escit (29)" in form "esciu" from line 670 to line 674.
+Find word "scius (420)" in form "sciun" from line 671 to line 675.
+Find word "queis (46)" in form "queic" from line 682 to line 686.
+Find word "capio (32201)" in form "capip" from line 690 to line 694.
+Find word "antae (227)" in form "antac" from line 722 to line 726.
+Find word "cieo (7326)" in form "cieo" from line 3 to line 6.
+Find word "sese (13)" in form "sese" from line 26 to line 29.
+Find word "nana (25)" in form "nana" from line 298 to line 301.
+Find word "urna (1685)" in form "urna" from line 349 to line 352.
+Find word "nica (165)" in form "nica" from line 509 to line 512.
+Find word "icas (298)" in form "icas" from line 510 to line 513.
+Find word "mena (19)" in form "mena" from line 550 to line 553.
+Find word "tufa (149)" in form "tufa" from line 595 to line 598.

@@ -1,45 +1,45 @@
-Find word "Savus" in form "sauuson" from line 38 to line 44.
-Find word "daphne" in form "daphnct" from line 481 to line 487.
-Find word "Sicilia" in form "sicilsa" from line 536 to line 542.
-Find word "Naias" in form "naiasfs" from line 617 to line 623.
-Find word "Savus" in form "sauuso" from line 38 to line 43.
-Find word "daphne" in form "daphnc" from line 481 to line 486.
-Find word "Naias" in form "naiasf" from line 617 to line 622.
-Find word "nans" in form "nansn" from line 12 to line 16.
-Find word "Savus" in form "sauus" from line 38 to line 42.
-Find word "sonus" in form "sonue" from line 42 to line 46.
-Find word "pacio" in form "pacia" from line 67 to line 71.
-Find word "acia" in form "aciad" from line 68 to line 72.
-Find word "Auser" in form "auseu" from line 121 to line 125.
-Find word "Naias" in form "naiat" from line 137 to line 141.
-Find word "nates" in form "natea" from line 177 to line 181.
-Find word "isis" in form "isist" from line 185 to line 189.
-Find word "sisto" in form "sisti" from line 186 to line 190.
-Find word "isti" in form "istis" from line 187 to line 191.
-Find word "nata" in form "nataq" from line 192 to line 196.
-Find word "Aeaea" in form "aeaei" from line 266 to line 270.
-Find word "eheu" in form "eheuc" from line 338 to line 342.
-Find word "cista" in form "cistq" from line 342 to line 346.
-Find word "Creta" in form "cretc" from line 388 to line 392.
-Find word "sanna" in form "sannd" from line 505 to line 509.
-Find word "ancon" in form "ancoc" from line 544 to line 548.
-Find word "isium" in form "isiuf" from line 564 to line 568.
-Find word "salmo" in form "salmh" from line 577 to line 581.
-Find word "hice" in form "hicee" from line 595 to line 599.
-Find word "Naias" in form "naias" from line 617 to line 621.
-Find word "caepa" in form "caeps" from line 639 to line 643.
-Find word "simia" in form "simie" from line 643 to line 647.
-Find word "acula" in form "aculi" from line 700 to line 704.
-Find word "culix" in form "culip" from line 701 to line 705.
-Find word "picus" in form "picuu" from line 723 to line 727.
-Find word "Mevia" in form "meuii" from line 740 to line 744.
-Find word "quies" in form "quiei" from line 781 to line 785.
-Find word "inadc" in form "inadl" from line 785 to line 789.
-Find word "munus" in form "munuh" from line 848 to line 852.
-Find word "nans" in form "nans" from line 12 to line 15.
-Find word "acia" in form "acia" from line 68 to line 71.
-Find word "isis" in form "isis" from line 185 to line 188.
-Find word "isti" in form "isti" from line 187 to line 190.
-Find word "nata" in form "nata" from line 192 to line 195.
-Find word "eheu" in form "eheu" from line 338 to line 341.
-Find word "hice" in form "hice" from line 595 to line 598.
+Find word "Savus (284)" in form "sauuson" from line 38 to line 44.
+Find word "daphne (698)" in form "daphnct" from line 481 to line 487.
+Find word "Sicilia (26)" in form "sicilsa" from line 536 to line 542.
+Find word "Naias (857)" in form "naiasfs" from line 617 to line 623.
+Find word "Savus (284)" in form "sauuso" from line 38 to line 43.
+Find word "daphne (698)" in form "daphnc" from line 481 to line 486.
+Find word "Naias (857)" in form "naiasf" from line 617 to line 622.
+Find word "nans (40)" in form "nansn" from line 12 to line 16.
+Find word "Savus (284)" in form "sauus" from line 38 to line 42.
+Find word "sonus (1440)" in form "sonue" from line 42 to line 46.
+Find word "pacio (322)" in form "pacia" from line 67 to line 71.
+Find word "acia (113)" in form "aciad" from line 68 to line 72.
+Find word "Auser (186)" in form "auseu" from line 121 to line 125.
+Find word "Naias (857)" in form "naiat" from line 137 to line 141.
+Find word "nates (21)" in form "natea" from line 177 to line 181.
+Find word "isis (522)" in form "isist" from line 185 to line 189.
+Find word "sisto (19087)" in form "sisti" from line 186 to line 190.
+Find word "isti (26)" in form "istis" from line 187 to line 191.
+Find word "nata (49)" in form "nataq" from line 192 to line 196.
+Find word "Aeaea (262)" in form "aeaei" from line 266 to line 270.
+Find word "eheu (688)" in form "eheuc" from line 338 to line 342.
+Find word "cista (692)" in form "cistq" from line 342 to line 346.
+Find word "Creta (2633)" in form "cretc" from line 388 to line 392.
+Find word "sanna (102)" in form "sannd" from line 505 to line 509.
+Find word "ancon (504)" in form "ancoc" from line 544 to line 548.
+Find word "isium (16)" in form "isiuf" from line 564 to line 568.
+Find word "salmo (69)" in form "salmh" from line 577 to line 581.
+Find word "hice (32)" in form "hicee" from line 595 to line 599.
+Find word "Naias (857)" in form "naias" from line 617 to line 621.
+Find word "caepa (1394)" in form "caeps" from line 639 to line 643.
+Find word "simia (793)" in form "simie" from line 643 to line 647.
+Find word "acula (138)" in form "aculi" from line 700 to line 704.
+Find word "culix (87)" in form "culip" from line 701 to line 705.
+Find word "picus (456)" in form "picuu" from line 723 to line 727.
+Find word "Mevia (60)" in form "meuii" from line 740 to line 744.
+Find word "quies (2299)" in form "quiei" from line 781 to line 785.
+Find word "inadc (18)" in form "inadl" from line 785 to line 789.
+Find word "munus (3588)" in form "munuh" from line 848 to line 852.
+Find word "nans (40)" in form "nans" from line 12 to line 15.
+Find word "acia (113)" in form "acia" from line 68 to line 71.
+Find word "isis (522)" in form "isis" from line 185 to line 188.
+Find word "isti (26)" in form "isti" from line 187 to line 190.
+Find word "nata (49)" in form "nata" from line 192 to line 195.
+Find word "eheu (688)" in form "eheu" from line 338 to line 341.
+Find word "hice (32)" in form "hice" from line 595 to line 598.

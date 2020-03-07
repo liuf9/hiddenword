@@ -1,70 +1,70 @@
-Find word "pipatus" in form "pipatuime" from line 30 to line 38.
-Find word "pipatus" in form "pipatuim" from line 30 to line 37.
-Find word "animula" in form "animuts" from line 6 to line 12.
-Find word "pipatio" in form "pipatui" from line 30 to line 36.
-Find word "calasis" in form "calasuq" from line 250 to line 256.
-Find word "sanus" in form "sanusfc" from line 320 to line 326.
-Find word "fatue" in form "fatuest" from line 328 to line 334.
-Find word "sepes" in form "sepesun" from line 493 to line 499.
-Find word "Rhipaei" in form "rhipate" from line 616 to line 622.
-Find word "sispes" in form "sispeau" from line 625 to line 631.
-Find word "assedo" in form "assedie" from line 636 to line 642.
-Find word "animus" in form "animut" from line 6 to line 11.
-Find word "sanus" in form "sanusf" from line 320 to line 325.
-Find word "fatue" in form "fatues" from line 328 to line 333.
-Find word "sepes" in form "sepesu" from line 493 to line 498.
-Find word "sispes" in form "sispea" from line 625 to line 630.
-Find word "assedo" in form "assedi" from line 636 to line 641.
-Find word "mani" in form "manim" from line 5 to line 9.
-Find word "anima" in form "animu" from line 6 to line 10.
-Find word "Sape" in form "sapep" from line 12 to line 16.
-Find word "luma" in form "luma(" from line 114 to line 118.
-Find word "aeger" in form "aegeh" from line 214 to line 218.
-Find word "cala" in form "calas" from line 250 to line 254.
-Find word "Alasi" in form "alasu" from line 251 to line 255.
-Find word "rien" in form "rienq" from line 273 to line 277.
-Find word "sanus" in form "sanui" from line 315 to line 319.
-Find word "sanus" in form "sanus" from line 320 to line 324.
-Find word "anus" in form "anusf" from line 321 to line 325.
-Find word "fatua" in form "fatue" from line 328 to line 332.
-Find word "lacio" in form "lacia" from line 385 to line 389.
-Find word "acia" in form "acias" from line 386 to line 390.
-Find word "aspuo" in form "aspuq" from line 389 to line 393.
-Find word "pusa" in form "pusal" from line 395 to line 399.
-Find word "salo" in form "saloe" from line 397 to line 401.
-Find word "aloe" in form "aloeh" from line 398 to line 402.
-Find word "Sosia" in form "sosie" from line 404 to line 408.
-Find word "eicio" in form "eicit" from line 435 to line 439.
-Find word "seta" in form "setas" from line 441 to line 445.
-Find word "Padus" in form "padui" from line 451 to line 455.
-Find word "maea" in form "maeaf" from line 468 to line 472.
-Find word "sepes" in form "sepes" from line 493 to line 497.
-Find word "Osce" in form "osceu" from line 511 to line 515.
-Find word "Ceus" in form "ceuso" from line 513 to line 517.
-Find word "cujus" in form "cuiuq" from line 535 to line 539.
-Find word "Aedui" in form "aeduh" from line 546 to line 550.
-Find word "iasis" in form "iasin" from line 564 to line 568.
-Find word "asina" in form "asinm" from line 565 to line 569.
-Find word "rapto" in form "raptt" from line 584 to line 588.
-Find word "pateo" in form "patee" from line 619 to line 623.
-Find word "asser" in form "assed" from line 636 to line 640.
-Find word "basio" in form "basii" from line 667 to line 671.
-Find word "mese" in form "mesea" from line 696 to line 700.
-Find word "situs" in form "situe" from line 726 to line 730.
-Find word "Caca" in form "cacan" from line 742 to line 746.
-Find word "mani" in form "mani" from line 5 to line 8.
-Find word "Sape" in form "sape" from line 12 to line 15.
-Find word "luma" in form "luma" from line 114 to line 117.
-Find word "cala" in form "cala" from line 250 to line 253.
-Find word "rien" in form "rien" from line 273 to line 276.
-Find word "anus" in form "anus" from line 321 to line 324.
-Find word "acia" in form "acia" from line 386 to line 389.
-Find word "pusa" in form "pusa" from line 395 to line 398.
-Find word "salo" in form "salo" from line 397 to line 400.
-Find word "aloe" in form "aloe" from line 398 to line 401.
-Find word "seta" in form "seta" from line 441 to line 444.
-Find word "maea" in form "maea" from line 468 to line 471.
-Find word "Osce" in form "osce" from line 511 to line 514.
-Find word "Ceus" in form "ceus" from line 513 to line 516.
-Find word "mese" in form "mese" from line 696 to line 699.
-Find word "Caca" in form "caca" from line 742 to line 745.
+Find word "pipatus (86)" in form "pipatuime" from line 30 to line 38.
+Find word "pipatus (86)" in form "pipatuim" from line 30 to line 37.
+Find word "animula (254)" in form "animuts" from line 6 to line 12.
+Find word "pipatio (124)" in form "pipatui" from line 30 to line 36.
+Find word "calasis (126)" in form "calasuq" from line 250 to line 256.
+Find word "sanus (11312)" in form "sanusfc" from line 320 to line 326.
+Find word "fatue (30)" in form "fatuest" from line 328 to line 334.
+Find word "sepes (78)" in form "sepesun" from line 493 to line 499.
+Find word "Rhipaei (531)" in form "rhipate" from line 616 to line 622.
+Find word "sispes (29)" in form "sispeau" from line 625 to line 631.
+Find word "assedo (45)" in form "assedie" from line 636 to line 642.
+Find word "animus (23151)" in form "animut" from line 6 to line 11.
+Find word "sanus (11312)" in form "sanusf" from line 320 to line 325.
+Find word "fatue (30)" in form "fatues" from line 328 to line 333.
+Find word "sepes (78)" in form "sepesu" from line 493 to line 498.
+Find word "sispes (29)" in form "sispea" from line 625 to line 630.
+Find word "assedo (45)" in form "assedi" from line 636 to line 641.
+Find word "mani (25)" in form "manim" from line 5 to line 9.
+Find word "anima (9208)" in form "animu" from line 6 to line 10.
+Find word "Sape (77)" in form "sapep" from line 12 to line 16.
+Find word "luma (138)" in form "luma(" from line 114 to line 118.
+Find word "aeger (5777)" in form "aegeh" from line 214 to line 218.
+Find word "cala (164)" in form "calas" from line 250 to line 254.
+Find word "Alasi (55)" in form "alasu" from line 251 to line 255.
+Find word "rien (20)" in form "rienq" from line 273 to line 277.
+Find word "sanus (11312)" in form "sanui" from line 315 to line 319.
+Find word "sanus (11312)" in form "sanus" from line 320 to line 324.
+Find word "anus (385)" in form "anusf" from line 321 to line 325.
+Find word "fatua (35)" in form "fatue" from line 328 to line 332.
+Find word "lacio (249)" in form "lacia" from line 385 to line 389.
+Find word "acia (113)" in form "acias" from line 386 to line 390.
+Find word "aspuo (87)" in form "aspuq" from line 389 to line 393.
+Find word "pusa (65)" in form "pusal" from line 395 to line 399.
+Find word "salo (36)" in form "saloe" from line 397 to line 401.
+Find word "aloe (290)" in form "aloeh" from line 398 to line 402.
+Find word "Sosia (158)" in form "sosie" from line 404 to line 408.
+Find word "eicio (3306)" in form "eicit" from line 435 to line 439.
+Find word "seta (15)" in form "setas" from line 441 to line 445.
+Find word "Padus (340)" in form "padui" from line 451 to line 455.
+Find word "maea (57)" in form "maeaf" from line 468 to line 472.
+Find word "sepes (78)" in form "sepes" from line 493 to line 497.
+Find word "Osce (24)" in form "osceu" from line 511 to line 515.
+Find word "Ceus (26)" in form "ceuso" from line 513 to line 517.
+Find word "cujus (805)" in form "cuiuq" from line 535 to line 539.
+Find word "Aedui (335)" in form "aeduh" from line 546 to line 550.
+Find word "iasis (40)" in form "iasin" from line 564 to line 568.
+Find word "asina (572)" in form "asinm" from line 565 to line 569.
+Find word "rapto (1918)" in form "raptt" from line 584 to line 588.
+Find word "pateo (3389)" in form "patee" from line 619 to line 623.
+Find word "asser (440)" in form "assed" from line 636 to line 640.
+Find word "basio (227)" in form "basii" from line 667 to line 671.
+Find word "mese (74)" in form "mesea" from line 696 to line 700.
+Find word "situs (38)" in form "situe" from line 726 to line 730.
+Find word "Caca (75)" in form "cacan" from line 742 to line 746.
+Find word "mani (25)" in form "mani" from line 5 to line 8.
+Find word "Sape (77)" in form "sape" from line 12 to line 15.
+Find word "luma (138)" in form "luma" from line 114 to line 117.
+Find word "cala (164)" in form "cala" from line 250 to line 253.
+Find word "rien (20)" in form "rien" from line 273 to line 276.
+Find word "anus (385)" in form "anus" from line 321 to line 324.
+Find word "acia (113)" in form "acia" from line 386 to line 389.
+Find word "pusa (65)" in form "pusa" from line 395 to line 398.
+Find word "salo (36)" in form "salo" from line 397 to line 400.
+Find word "aloe (290)" in form "aloe" from line 398 to line 401.
+Find word "seta (15)" in form "seta" from line 441 to line 444.
+Find word "maea (57)" in form "maea" from line 468 to line 471.
+Find word "Osce (24)" in form "osce" from line 511 to line 514.
+Find word "Ceus (26)" in form "ceus" from line 513 to line 516.
+Find word "mese (74)" in form "mese" from line 696 to line 699.
+Find word "Caca (75)" in form "caca" from line 742 to line 745.

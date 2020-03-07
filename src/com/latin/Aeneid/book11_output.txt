@@ -1,46 +1,46 @@
-Find word "pertica" in form "pertichqn" from line 617 to line 625.
-Find word "pertica" in form "pertichq" from line 617 to line 624.
-Find word "canens" in form "canenee" from line 310 to line 316.
-Find word "patiens" in form "patieqi" from line 383 to line 389.
-Find word "pertica" in form "pertich" from line 617 to line 623.
-Find word "isatis" in form "isatidq" from line 653 to line 659.
-Find word "canens" in form "canene" from line 310 to line 315.
-Find word "isatis" in form "isatid" from line 653 to line 658.
-Find word "nana" in form "nanai" from line 17 to line 21.
-Find word "Ophir" in form "ophim" from line 57 to line 61.
-Find word "fatim" in form "fatiu" from line 97 to line 101.
-Find word "Atius" in form "atiuc" from line 98 to line 102.
-Find word "asper" in form "aspen" from line 148 to line 152.
-Find word "bini" in form "binim" from line 201 to line 205.
-Find word "Maera" in form "maeri" from line 261 to line 265.
-Find word "Mucia" in form "mucis" from line 281 to line 285.
-Find word "cista" in form "cistd" from line 283 to line 287.
-Find word "caneo" in form "canen" from line 310 to line 314.
-Find word "Elaea" in form "elaeh" from line 316 to line 320.
-Find word "cimex" in form "cimec" from line 331 to line 335.
-Find word "patio" in form "patie" from line 383 to line 387.
-Find word "nans" in form "nanss" from line 408 to line 412.
-Find word "invio" in form "inuif" from line 435 to line 439.
-Find word "dicio" in form "dicic" from line 458 to line 462.
-Find word "Titan" in form "titas" from line 631 to line 635.
-Find word "cavea" in form "cauen" from line 647 to line 651.
-Find word "Nais" in form "naisa" from line 651 to line 655.
-Find word "satio" in form "satid" from line 654 to line 658.
-Find word "Oeta" in form "oetac" from line 694 to line 698.
-Find word "acia" in form "aciah" from line 697 to line 701.
-Find word "sacco" in form "saccp" from line 773 to line 777.
-Find word "sane" in form "sanec" from line 796 to line 800.
-Find word "caco" in form "cacoc" from line 808 to line 812.
-Find word "Suche" in form "suchp" from line 853 to line 857.
-Find word "adeps" in form "adepu" from line 885 to line 889.
-Find word "spina" in form "spind" from line 894 to line 898.
-Find word "Indi" in form "indio" from line 896 to line 900.
-Find word "nana" in form "nana" from line 17 to line 20.
-Find word "bini" in form "bini" from line 201 to line 204.
-Find word "nans" in form "nans" from line 408 to line 411.
-Find word "Nais" in form "nais" from line 651 to line 654.
-Find word "Oeta" in form "oeta" from line 694 to line 697.
-Find word "acia" in form "acia" from line 697 to line 700.
-Find word "sane" in form "sane" from line 796 to line 799.
-Find word "caco" in form "caco" from line 808 to line 811.
-Find word "Indi" in form "indi" from line 896 to line 899.
+Find word "pertica (970)" in form "pertichqn" from line 617 to line 625.
+Find word "pertica (970)" in form "pertichq" from line 617 to line 624.
+Find word "canens (36)" in form "canenee" from line 310 to line 316.
+Find word "patiens (45)" in form "patieqi" from line 383 to line 389.
+Find word "pertica (970)" in form "pertich" from line 617 to line 623.
+Find word "isatis (110)" in form "isatidq" from line 653 to line 659.
+Find word "canens (36)" in form "canene" from line 310 to line 315.
+Find word "isatis (110)" in form "isatid" from line 653 to line 658.
+Find word "nana (25)" in form "nanai" from line 17 to line 21.
+Find word "Ophir (154)" in form "ophim" from line 57 to line 61.
+Find word "fatim (98)" in form "fatiu" from line 97 to line 101.
+Find word "Atius (174)" in form "atiuc" from line 98 to line 102.
+Find word "asper (7446)" in form "aspen" from line 148 to line 152.
+Find word "bini (2331)" in form "binim" from line 201 to line 205.
+Find word "Maera (171)" in form "maeri" from line 261 to line 265.
+Find word "Mucia (21)" in form "mucis" from line 281 to line 285.
+Find word "cista (692)" in form "cistd" from line 283 to line 287.
+Find word "caneo (550)" in form "canen" from line 310 to line 314.
+Find word "Elaea (95)" in form "elaeh" from line 316 to line 320.
+Find word "cimex (349)" in form "cimec" from line 331 to line 335.
+Find word "patio (30)" in form "patie" from line 383 to line 387.
+Find word "nans (40)" in form "nanss" from line 408 to line 412.
+Find word "invio (79)" in form "inuif" from line 435 to line 439.
+Find word "dicio (2820)" in form "dicic" from line 458 to line 462.
+Find word "Titan (1862)" in form "titas" from line 631 to line 635.
+Find word "cavea (1357)" in form "cauen" from line 647 to line 651.
+Find word "Nais (30)" in form "naisa" from line 651 to line 655.
+Find word "satio (3399)" in form "satid" from line 654 to line 658.
+Find word "Oeta (581)" in form "oetac" from line 694 to line 698.
+Find word "acia (113)" in form "aciah" from line 697 to line 701.
+Find word "sacco (311)" in form "saccp" from line 773 to line 777.
+Find word "sane (25)" in form "sanec" from line 796 to line 800.
+Find word "caco (378)" in form "cacoc" from line 808 to line 812.
+Find word "Suche (55)" in form "suchp" from line 853 to line 857.
+Find word "adeps (1162)" in form "adepu" from line 885 to line 889.
+Find word "spina (2002)" in form "spind" from line 894 to line 898.
+Find word "Indi (25)" in form "indio" from line 896 to line 900.
+Find word "nana (25)" in form "nana" from line 17 to line 20.
+Find word "bini (2331)" in form "bini" from line 201 to line 204.
+Find word "nans (40)" in form "nans" from line 408 to line 411.
+Find word "Nais (30)" in form "nais" from line 651 to line 654.
+Find word "Oeta (581)" in form "oeta" from line 694 to line 697.
+Find word "acia (113)" in form "acia" from line 697 to line 700.
+Find word "sane (25)" in form "sane" from line 796 to line 799.
+Find word "caco (378)" in form "caco" from line 808 to line 811.
+Find word "Indi (25)" in form "indi" from line 896 to line 899.

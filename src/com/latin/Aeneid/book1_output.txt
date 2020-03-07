@@ -1,33 +1,33 @@
-Find word "apianus" in form "apianpa" from line 180 to line 186.
-Find word "emptor" in form "emptodt" from line 202 to line 208.
-Find word "Nomas" in form "nomasei" from line 326 to line 332.
-Find word "Masei" in form "maseiem" from line 328 to line 334.
-Find word "Oeanthe" in form "oeantfs" from line 372 to line 378.
-Find word "dasea" in form "daseaqi" from line 402 to line 408.
-Find word "emptor" in form "emptod" from line 202 to line 207.
-Find word "Nomas" in form "nomase" from line 326 to line 331.
-Find word "Masei" in form "maseie" from line 328 to line 333.
-Find word "dasea" in form "daseaq" from line 402 to line 407.
-Find word "Alii" in form "aliic" from line 52 to line 56.
-Find word "aegis" in form "aegii" from line 65 to line 69.
-Find word "Apia" in form "apian" from line 180 to line 184.
-Find word "cata" in form "cataa" from line 226 to line 230.
-Find word "nomae" in form "nomas" from line 326 to line 330.
-Find word "Masei" in form "masei" from line 328 to line 332.
-Find word "dasea" in form "dasea" from line 402 to line 406.
-Find word "impie" in form "impih" from line 423 to line 427.
-Find word "nata" in form "natap" from line 469 to line 473.
-Find word "Appia" in form "appif" from line 472 to line 476.
-Find word "psila" in form "psils" from line 605 to line 609.
-Find word "insto" in form "instn" from line 629 to line 633.
-Find word "maia" in form "maiai" from line 636 to line 640.
-Find word "papa" in form "papao" from line 642 to line 646.
-Find word "Enna" in form "ennaf" from line 663 to line 667.
-Find word "furca" in form "furco" from line 684 to line 688.
-Find word "Alii" in form "alii" from line 52 to line 55.
-Find word "Apia" in form "apia" from line 180 to line 183.
-Find word "cata" in form "cata" from line 226 to line 229.
-Find word "nata" in form "nata" from line 469 to line 472.
-Find word "maia" in form "maia" from line 636 to line 639.
-Find word "papa" in form "papa" from line 642 to line 645.
-Find word "Enna" in form "enna" from line 663 to line 666.
+Find word "apianus (246)" in form "apianpa" from line 180 to line 186.
+Find word "emptor (521)" in form "emptodt" from line 202 to line 208.
+Find word "Nomas (428)" in form "nomasei" from line 326 to line 332.
+Find word "Masei (60)" in form "maseiem" from line 328 to line 334.
+Find word "Oeanthe (98)" in form "oeantfs" from line 372 to line 378.
+Find word "dasea (139)" in form "daseaqi" from line 402 to line 408.
+Find word "emptor (521)" in form "emptod" from line 202 to line 207.
+Find word "Nomas (428)" in form "nomase" from line 326 to line 331.
+Find word "Masei (60)" in form "maseie" from line 328 to line 333.
+Find word "dasea (139)" in form "daseaq" from line 402 to line 407.
+Find word "Alii (33)" in form "aliic" from line 52 to line 56.
+Find word "aegis (472)" in form "aegii" from line 65 to line 69.
+Find word "Apia (90)" in form "apian" from line 180 to line 184.
+Find word "cata (139)" in form "cataa" from line 226 to line 230.
+Find word "nomae (25)" in form "nomas" from line 326 to line 330.
+Find word "Masei (60)" in form "masei" from line 328 to line 332.
+Find word "dasea (139)" in form "dasea" from line 402 to line 406.
+Find word "impie (34)" in form "impih" from line 423 to line 427.
+Find word "nata (49)" in form "natap" from line 469 to line 473.
+Find word "Appia (17)" in form "appif" from line 472 to line 476.
+Find word "psila (110)" in form "psils" from line 605 to line 609.
+Find word "insto (3755)" in form "instn" from line 629 to line 633.
+Find word "maia (76)" in form "maiai" from line 636 to line 640.
+Find word "papa (143)" in form "papao" from line 642 to line 646.
+Find word "Enna (37)" in form "ennaf" from line 663 to line 667.
+Find word "furca (2216)" in form "furco" from line 684 to line 688.
+Find word "Alii (33)" in form "alii" from line 52 to line 55.
+Find word "Apia (90)" in form "apia" from line 180 to line 183.
+Find word "cata (139)" in form "cata" from line 226 to line 229.
+Find word "nata (49)" in form "nata" from line 469 to line 472.
+Find word "maia (76)" in form "maia" from line 636 to line 639.
+Find word "papa (143)" in form "papa" from line 642 to line 645.
+Find word "Enna (37)" in form "enna" from line 663 to line 666.
