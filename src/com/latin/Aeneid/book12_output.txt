@@ -14,6 +14,7 @@ Find word "picea (154)" in form "picee" from line 86 to line 90.
 Find word "posca (289)" in form "poscd" from line 113 to line 117.
 Find word "pinso (820)" in form "pinsm" from line 140 to line 144.
 Find word "seps (337)" in form "sepsa" from line 167 to line 171.
+Find word "casus (5696)" in form "casun" from line 185 to line 189.
 Find word "nisi (3821)" in form "nisic" from line 190 to line 194.
 Find word "aduno (314)" in form "adunc" from line 204 to line 208.
 Find word "Caca (75)" in form "cacaf" from line 250 to line 254.

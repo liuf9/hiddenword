@@ -121,15 +121,11 @@ public class LoadText {
         int count = 1;
         for (int i = start; i < s.length(); i++) {
             char c = s.charAt(i);
-            if (c != ',' && c != ' ' && c != '.' && c != '?') {
-                if (c != '!' && c != '-' && c != '\'' && c != '[' && c != ']') {
-                    if (c != '\"') {
-                        if (count == LETTER_INDEX) {
-                            return returnLetterHelper(c);
-                        } else {
-                            count++;
-                        }
-                    }
+            if ((c <= 122 && c >= 97) || (c <= 90 && c >= 65)) {
+                if (count == LETTER_INDEX) {
+                    return returnLetterHelper(c);
+                } else {
+                    count++;
                 }
             }
         }
