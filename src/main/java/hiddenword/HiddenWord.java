@@ -2,9 +2,9 @@ package hiddenword;
 
 import java.io.*;
 import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.Map;
 import java.util.List;
+import java.util.Map;
+import java.util.HashMap;
 
 public class HiddenWord {
     private static final int LEAST_LEN = 4;
@@ -13,7 +13,8 @@ public class HiddenWord {
         // LoadDictionary.main(args);
         LoadText.main(args);
         int numOfBooks = LoadText.getNumOfBooks();
-        String address = LoadText.getAddress();
+        String dict = LoadText.getDict();
+        String output = LoadText.getOutput();
 
         BufferedReader reader;
         BufferedWriter writer;
@@ -22,7 +23,7 @@ public class HiddenWord {
 
             // The words in "dict.txt" are sorted.
             reader = new BufferedReader(new FileReader(
-                    "src/com/latin/dict.txt"));
+                    dict + "dict.txt"));
             map = new HashMap<>();
 
             // Store the dictionary words with word length >= 2 into the map.
@@ -47,13 +48,13 @@ public class HiddenWord {
             for (int i = 1; i <= numOfBooks; i++) {
                 // Import the vertical word sequence.
                 reader2 = new BufferedReader(new FileReader(
-                        address + i + ".txt"));
+                        output + i + ".txt"));
                 String sequence = reader2.readLine();
                 reader2.close();
 
                 // Write the potential acrostic words into the output file.
                 writer = new BufferedWriter(new FileWriter(
-                        address + "book" + i + "_output.txt"));
+                        output + "book" + i + "_output.txt"));
                 for (int j = 10; j >= LEAST_LEN; j--) {
                     wordProcession(map, sequence, j, writer);
                 }

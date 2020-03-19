@@ -8,7 +8,9 @@ public class LoadText {
     private static final int LETTER_INDEX = 1;
 
     private static int numOfBooks;
-    private static String address;
+    private static String dict;
+    private static String input;
+    private static String output;
     private static boolean hasV;
     private static boolean hasJ;
     private static int checkStyle = -1;
@@ -21,9 +23,9 @@ public class LoadText {
         try {
             for (int i = 1; i <= numOfBooks; i++) {
                 reader = new BufferedReader(new FileReader(
-                        address + "book" + i + ".txt"));
+                        input + "book" + i + ".txt"));
                 writer = new BufferedWriter(new FileWriter(
-                        address + i + ".txt"));
+                        output + i + ".txt"));
 
                 System.out.println("Loading book " + i + "...");
 
@@ -51,6 +53,7 @@ public class LoadText {
                 writer.close();
                 System.out.println("Finish loading book " + i + ".");
             }
+            System.out.println("All books are loaded.");
 
         } catch (IOException e) {
             e.printStackTrace();
@@ -61,8 +64,12 @@ public class LoadText {
         return numOfBooks;
     }
 
-    static String getAddress() {
-        return address;
+    static String getDict() {
+        return dict;
+    }
+
+    static String getOutput() {
+        return output;
     }
 
     // return the check acrostic style; return 1 if we want to check the odd-number
@@ -72,13 +79,43 @@ public class LoadText {
         return checkStyle;
     }
 
+    // Create a new directory with the given output address.
+    private static void createDirectory(String bookname) {
+        String temp = getOutput() + bookname + "/";
+        File file = new File(temp);
+        // Creating the directory.
+        boolean b = file.mkdir();
+        if (b) {
+            output = temp;
+        } else {
+            System.out.println("Cannot create a directory in the given output address.");
+        }
+    }
+
     private static void formAddress() throws NumberFormatException {
         Scanner console = new Scanner(System.in);
+
+        System.out.print("What is the dictionary address (no space): ");
+        dict = console.nextLine();
+        if (!dict.endsWith("/")) {
+            dict += "/";
+        }
+        System.out.print("What is the input address (no space): ");
+        input = console.nextLine();
+        if (!input.endsWith("/")) {
+            input += "/";
+        }
+        System.out.print("What is the output address (no space): ");
+        output = console.nextLine();
+        if (!output.endsWith("/")) {
+            output += "/";
+        }
 
         System.out.print("What is the Latin text for acrostic analysis " +
                 "(first letter capitalized, no space): ");
         String bookname = console.nextLine();
-        address = "src/com/latin/" + bookname + "/";
+        createDirectory(bookname);
+
         System.out.print("How many books does it have " +
                 "(enter an integer): ");
         numOfBooks = Integer.parseInt(console.nextLine());
