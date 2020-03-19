@@ -1,0 +1,56 @@
+The percentage of first-letter occurrence is:
+Letter 'A': 9.854
+Letter 'B': 0.645
+Letter 'C': 7.744
+Letter 'D': 4.281
+Letter 'E': 9.146
+Letter 'F': 2.556
+Letter 'G': 0.645
+Letter 'H': 4.530
+Letter 'I': 10.400
+Letter 'J': 0.000
+Letter 'K': 0.000
+Letter 'L': 1.799
+Letter 'M': 3.475
+Letter 'N': 7.334
+Letter 'O': 3.003
+Letter 'P': 6.950
+Letter 'Q': 5.212
+Letter 'R': 1.675
+Letter 'S': 9.295
+Letter 'T': 5.237
+Letter 'U': 6.193
+Letter 'V': 0.000
+Letter 'W': 0.000
+Letter 'X': 0.000
+Letter 'Y': 0.000
+Letter 'Z': 0.025
+
+The percentage of acrostic-letter occurrence is:
+Letter 'A': 7.395
+Letter 'B': 1.135
+Letter 'C': 8.471
+Letter 'D': 4.291
+Letter 'E': 5.365
+Letter 'F': 5.296
+Letter 'G': 1.374
+Letter 'H': 2.495
+Letter 'I': 7.121
+Letter 'J': 0.000
+Letter 'K': 0.000
+Letter 'L': 3.167
+Letter 'M': 6.480
+Letter 'N': 5.668
+Letter 'O': 2.105
+Letter 'P': 9.581
+Letter 'Q': 3.303
+Letter 'R': 3.546
+Letter 'S': 9.502
+Letter 'T': 6.764
+Letter 'U': 6.897
+Letter 'V': 0.000
+Letter 'W': 0.000
+Letter 'X': 0.002
+Letter 'Y': 0.000
+Letter 'Z': 0.041
+
