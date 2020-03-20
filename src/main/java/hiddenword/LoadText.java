@@ -154,7 +154,7 @@ public class LoadText {
     private static String findLetter(String s) {
         // Get rid of the whitespaces before words in each line.
         int start = 0;
-        while (s.charAt(start) == ' ') {
+        while (start < s.length() && s.charAt(start) == ' ') {
             start++;
         }
 
