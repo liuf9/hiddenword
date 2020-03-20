@@ -108,17 +108,13 @@ public class HiddenWord {
     }
 
     private static int contains(List<String> subdict, String substr) {
-        // Check whether the substr has a length longer than 3.
-        boolean longLen = (substr.length() > 3);
-
         for (int i = 0; i < subdict.size(); i++) {
             String word = subdict.get(i).toLowerCase();
             word = word.substring(0, word.indexOf(' '));
             word = word.replace('v', 'u');
             word = word.replace('j', 'i');
-            if (!longLen && substr.equals(word)) {
-                return i;
-            } else if (longLen && word.length() >= substr.length() / 2 + 2
+
+            if (word.length() >= substr.length() / 2 + 2
                     && word.length() <= substr.length()) {
                 int sepIndex = substr.length() / 2 + 2;
 
