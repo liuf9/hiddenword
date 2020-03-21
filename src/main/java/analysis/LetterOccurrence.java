@@ -85,7 +85,7 @@ public class LetterOccurrence {
         for (int i = start + 1; i < s.length(); i++) {
             if (!isFirstLetter(s, i - 1) && isFirstLetter(s, i)) {
                 int ascii2 = (int) returnLetterHelper(s.charAt(i));
-                acrosticOccurrence[cvtAsciiToArrIndex(ascii2)] += 1;
+                firstLetterOccurrence[cvtAsciiToArrIndex(ascii2)] += 1;
             }
         }
     }
@@ -124,7 +124,7 @@ public class LetterOccurrence {
             throws IOException {
         int total = sum(arr);
         for (int i = 0; i < 26; i++) {
-            String temp = String.format("Letter \'%c\': %.3f\n", (char) (i + 65),
+            String temp = String.format("%.3f, ",
                     arr[i] / (float) total * 100);
             writer.write(temp, 0, temp.length());
         }

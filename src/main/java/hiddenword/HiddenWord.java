@@ -114,9 +114,11 @@ public class HiddenWord {
             word = word.replace('v', 'u');
             word = word.replace('j', 'i');
 
-            if (word.length() >= substr.length() / 2 + 2
-                    && word.length() <= substr.length()) {
-                int sepIndex = substr.length() / 2 + 2;
+            // plus "1" or "2" is a choice,
+            // the boolean after "&&" is also a choice.
+            if (word.length() >= substr.length() / 2 + 1
+                    && word.length() <= substr.length() + 1) {
+                int sepIndex = substr.length() / 2 + 1;
 
                 if (word.substring(0, sepIndex).equals(substr.substring(0, sepIndex))) {
                     return i;
