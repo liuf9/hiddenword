@@ -1,0 +1,9 @@
+Find word "Teos (363)" in form "teosi" from line 3 to line 11.
+Find word "spina (2002)" in form "spins" from line 125 to line 133.
+Find word "pinso (820)" in form "pinsv" from line 127 to line 135.
+Find word "atat (694)" in form "atatd" from line 177 to line 185.
+Find word "antae (227)" in form "antas" from line 339 to line 347.
+Find word "Teius (22)" in form "teiut" from line 529 to line 537.
+Find word "Spaco (60)" in form "spacn" from line 631 to line 639.
+Find word "Teos (363)" in form "teos" from line 3 to line 9.
+Find word "atat (694)" in form "atat" from line 177 to line 183.

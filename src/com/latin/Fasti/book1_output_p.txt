@@ -1,0 +1,17 @@
+Find word "Canace (237)" in form "canacdh" from line 228 to line 240.
+Find word "Cevenna (182)" in form "ceuenea" from line 488 to line 500.
+Find word "psecas (184)" in form "psecaim" from line 584 to line 596.
+Find word "Canace (237)" in form "canacd" from line 228 to line 238.
+Find word "psecas (184)" in form "psecai" from line 584 to line 594.
+Find word "nans (40)" in form "nansl" from line 86 to line 94.
+Find word "Canae (147)" in form "canac" from line 228 to line 236.
+Find word "disco (3037)" in form "discq" from line 266 to line 274.
+Find word "necto (2736)" in form "necte" from line 388 to line 396.
+Find word "ceveo (318)" in form "ceuen" from line 488 to line 496.
+Find word "Ionas (201)" in form "ionae" from line 520 to line 528.
+Find word "ircei (67)" in form "ircet" from line 566 to line 574.
+Find word "cete (15)" in form "cetev" from line 570 to line 578.
+Find word "tepor (820)" in form "tepof" from line 608 to line 616.
+Find word "codex (23)" in form "codef" from line 662 to line 670.
+Find word "nans (40)" in form "nans" from line 86 to line 92.
+Find word "cete (15)" in form "cete" from line 570 to line 576.

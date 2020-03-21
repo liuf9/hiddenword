@@ -116,9 +116,9 @@ public class HiddenWord {
 
             // plus "1" or "2" is a choice,
             // the boolean after "&&" is also a choice.
-            if (word.length() >= substr.length() / 2 + 1
+            if (word.length() >= substr.length() / 2 + 2
                     && word.length() <= substr.length() + 1) {
-                int sepIndex = substr.length() / 2 + 1;
+                int sepIndex = substr.length() / 2 + 2;
 
                 if (word.substring(0, sepIndex).equals(substr.substring(0, sepIndex))) {
                     return i;
