@@ -89,7 +89,7 @@ public class LoadText {
             output = temp;
         } else {
             System.out.println("Cannot create a directory in the given output address.");
-            System.out.println("Please change the name of the folder that has the same" +
+            System.out.println("Please change the name of the folder that has the same " +
                     "name as the text name.");
             System.exit(1);
         }

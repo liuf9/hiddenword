@@ -55,6 +55,10 @@ public class HiddenWord {
                 // Write the potential acrostic words into the output file.
                 writer = new BufferedWriter(new FileWriter(
                         output + "book" + i + "_output.txt"));
+
+                // in English version, replace 10 with 15.
+                // Our assumption is that the English acrostic has a length
+                // at most 15.
                 for (int j = 10; j >= LEAST_LEN; j--) {
                     wordProcession(map, sequence, j, writer);
                 }
@@ -114,6 +118,7 @@ public class HiddenWord {
             word = word.replace('v', 'u');
             word = word.replace('j', 'i');
 
+            // Latin version.
             // plus "1" or "2" is a choice,
             // the boolean after "&&" is also a choice.
             if (word.length() >= substr.length() / 2 + 2
@@ -124,6 +129,11 @@ public class HiddenWord {
                     return i;
                 }
             }
+
+            // // English Version
+            // if (word.equals(substr)) {
+            //     return i;
+            // }
 
         }
         return -1;
