@@ -1,0 +1,16 @@
+Find word "enucleo (1116)" in form "enuclpp" from line 69 to line 75.
+Find word "sectura (364)" in form "sectubc" from line 133 to line 139.
+Find word "senica (120)" in form "senicra" from line 173 to line 179.
+Find word "enucleo (1116)" in form "enuclp" from line 69 to line 74.
+Find word "sectura (364)" in form "sectub" from line 133 to line 138.
+Find word "senica (120)" in form "senicr" from line 173 to line 178.
+Find word "sepono (2896)" in form "sepoq" from line 21 to line 25.
+Find word "Euan (15)" in form "euanc" from line 42 to line 46.
+Find word "nucleo (92)" in form "nuclp" from line 70 to line 74.
+Find word "secta (2485)" in form "sectu" from line 133 to line 137.
+Find word "seni (876)" in form "senic" from line 173 to line 177.
+Find word "enico (21)" in form "enicr" from line 174 to line 178.
+Find word "Euan (15)" in form "euan" from line 42 to line 45.
+Find word "secta (2485)" in form "sect" from line 133 to line 136.
+Find word "seni (876)" in form "seni" from line 173 to line 176.
+Find word "enico (21)" in form "enic" from line 174 to line 177.

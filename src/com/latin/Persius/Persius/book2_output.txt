@@ -1,0 +1,5 @@
+Find word "itaque (1807)" in form "itaqi" from line 21 to line 25.
+Find word "denaso (77)" in form "denae" from line 68 to line 72.
+Find word "Naevia (31)" in form "naeuc" from line 70 to line 74.
+Find word "sallio (25)" in form "salln" from line 107 to line 111.
+Find word "sallo (33)" in form "sall" from line 107 to line 110.

@@ -1,0 +1,6 @@
+Find word "Mamers (841)" in form "mamei" from line 3 to line 7.
+Find word "tignum (1317)" in form "tignn" from line 20 to line 24.
+Find word "meapte (58)" in form "meapc" from line 25 to line 29.
+Find word "Cnosos (44)" in form "cnost" from line 33 to line 37.
+Find word "noster (2445)" in form "nostd" from line 34 to line 38.
+Find word "ocris (305)" in form "ocri" from line 76 to line 79.

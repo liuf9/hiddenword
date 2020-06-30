@@ -1,0 +1,5 @@
+Find word "sacer (13630)" in form "saceq" from line 10 to line 14.
+Find word "sedda (25)" in form "seddc" from line 18 to line 22.
+Find word "Paedia (97)" in form "paedr" from line 32 to line 36.
+Find word "sacer (13630)" in form "sace" from line 10 to line 13.
+Find word "sedda (25)" in form "sedd" from line 18 to line 21.

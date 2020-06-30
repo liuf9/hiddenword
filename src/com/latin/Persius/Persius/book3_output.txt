@@ -1,0 +1,7 @@
+Find word "isatis (110)" in form "isatiie" from line 24 to line 30.
+Find word "insaepio (90)" in form "insaehp" from line 50 to line 56.
+Find word "isatis (110)" in form "isatii" from line 24 to line 29.
+Find word "isatis (110)" in form "isati" from line 24 to line 28.
+Find word "satias (1628)" in form "satii" from line 25 to line 29.
+Find word "insane (29)" in form "insae" from line 50 to line 54.
+Find word "satio (3399)" in form "sati" from line 25 to line 28.

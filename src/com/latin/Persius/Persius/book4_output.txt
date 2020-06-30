@@ -1,0 +1,15 @@
+Find word "scansio (304)" in form "scanspd" from line 28 to line 34.
+Find word "scansio (304)" in form "scansp" from line 28 to line 33.
+Find word "Isse (144)" in form "issei" from line 2 to line 6.
+Find word "sejugo (463)" in form "seiuh" from line 4 to line 8.
+Find word "pascha (435)" in form "pascr" from line 18 to line 22.
+Find word "Ascra (489)" in form "ascru" from line 19 to line 23.
+Find word "scruta (186)" in form "scruf" from line 20 to line 24.
+Find word "scando (1945)" in form "scans" from line 28 to line 32.
+Find word "sepes (78)" in form "seped" from line 62 to line 66.
+Find word "Isse (144)" in form "isse" from line 2 to line 5.
+Find word "Sejus (755)" in form "seiu" from line 4 to line 7.
+Find word "pasco (4175)" in form "pasc" from line 18 to line 21.
+Find word "Ascra (489)" in form "ascr" from line 19 to line 22.
+Find word "sepes (78)" in form "sepe" from line 62 to line 65.
+Find word "pansa (71)" in form "pans" from line 114 to line 117.
