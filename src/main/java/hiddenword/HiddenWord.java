@@ -6,6 +6,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.HashMap;
 
+// Main function to find the candidates of hidden acrostics.
 public class HiddenWord {
     private static final int LEAST_LEN = 4;
 

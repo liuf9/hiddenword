@@ -3,6 +3,7 @@ package hiddenword;
 import java.io.*;
 import java.util.Scanner;
 
+// Load Latin text
 public class LoadText {
     // Search the "LETTER_INDEX"-th letter of the line.
     private static final int LETTER_INDEX = 1;

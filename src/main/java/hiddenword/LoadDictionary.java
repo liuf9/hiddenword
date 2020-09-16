@@ -2,6 +2,7 @@ package hiddenword;
 
 import java.io.*;
 
+// We load Latin or other dictionaries and transcribe them into our preferred form.
 public class LoadDictionary {
     private static final int WORD_LENGTH = 30;
 
