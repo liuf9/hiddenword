@@ -1,13 +1,18 @@
 package hiddenword;
 
-import java.io.*;
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import java.util.HashMap;
 
 // Main function to find the candidates of hidden acrostics.
 public class HiddenWord {
+    // We suppose the least length of an acrostic is 4.
     private static final int LEAST_LEN = 4;
 
     public static void main(String[] args) {
@@ -27,7 +32,8 @@ public class HiddenWord {
                     dict + "dict.txt"));
             map = new HashMap<>();
 
-            // Store the dictionary words with word length >= 2 into the map.
+            // Store the dictionary words with word length >= 2 into the map
+            // where we use the first two letters of the word as a key.
             System.out.println("Loading Latin dictionary...");
 
             String s = reader.readLine();
@@ -44,16 +50,18 @@ public class HiddenWord {
             reader.close();
             System.out.println("Finish loading Latin dictionary...");
 
+            // Search potential candidates for acrostics from a text string sequence.
             System.out.println("Start finding acrostic words...");
             BufferedReader reader2;
             for (int i = 1; i <= numOfBooks; i++) {
                 // Import the vertical word sequence.
                 reader2 = new BufferedReader(new FileReader(
                         output + i + ".txt"));
+                // a string sequence that contains all first letters of the text lines
                 String sequence = reader2.readLine();
                 reader2.close();
 
-                // Write the potential acrostic words into the output file.
+                // Create an output file buffer for writing the potential acrostic words.
                 writer = new BufferedWriter(new FileWriter(
                         output + "book" + i + "_output.txt"));
 
@@ -73,6 +81,9 @@ public class HiddenWord {
         }
     }
 
+    // This function searches through a given "map" of words and finds a qualified candidate word
+    // of acrostics with length "len" corresponding to the substring of the given text string "seq"
+    // and writes into the given buffer "writer".
     private static void wordProcession(Map<String, List<String>> map, String seq,
                                        int len, BufferedWriter writer) throws IOException {
         for (int i = 0; i < seq.length() - 1; i++) {
@@ -99,8 +110,8 @@ public class HiddenWord {
         }
     }
 
-    // Return the actual line number in the poem when we have different
-    // check acrostic style.
+    // This function returns the actual line number in the poem when we have different
+    // check acrostic style (e.g., we search acrostics by lines or by alternating lines).
     private static int actualLineNumber(int n) {
         int checkStyle = LoadText.getCheckStyle();
         if (checkStyle == 1) {
@@ -112,6 +123,9 @@ public class HiddenWord {
         }
     }
 
+    // This function searches through a given "subdict" and returns the index of a word
+    // that is closest to the given string "substr" (identical for more than first half
+    // of the letters and different in the last few letters by inflection).
     private static int contains(List<String> subdict, String substr) {
         for (int i = 0; i < subdict.size(); i++) {
             String word = subdict.get(i).toLowerCase();
@@ -119,9 +133,8 @@ public class HiddenWord {
             word = word.replace('v', 'u');
             word = word.replace('j', 'i');
 
-            // Latin version.
-            // plus "1" or "2" is a choice,
-            // the boolean after "&&" is also a choice.
+            // Latin version:
+            // use "substr.length() / 2 + <1, 2>"
             if (word.length() >= substr.length() / 2 + 2
                     && word.length() <= substr.length() + 1) {
                 int sepIndex = substr.length() / 2 + 2;
